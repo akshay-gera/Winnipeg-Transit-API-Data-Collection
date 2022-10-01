@@ -1,2 +1,9 @@
 # Winnipeg Transit API Data Collection
- Trial Data Querying with API and Putting into Pandas DataFrame
+
+## Project Objective
+Capture streaming data of Winnipeg Transit through its API url
+Organizing the data and understanding the structures
+Cleaning the Data and making it fit for further use
+Analyzing the data to discover hidden patterns and anomalies
+
+
