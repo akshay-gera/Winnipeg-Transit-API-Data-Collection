@@ -1,0 +1,207 @@
+,key,name
+0,16-0-s,Selkirk-Osborne to St.Vital Center
+1,1-0,1 On-Request
+2,11-1-M,Portage-Kildonan to City Hall
+3,10-1-W,St. Boniface-Wolseley to Wolseley via Provencher
+4,10-0-SP,St. Boniface-Wolseley to St. Boniface via Provencher
+5,10-1-WT,St. Boniface-Wolseley to Wolseley via Tache
+6,10-0-ST,St. Boniface-Wolseley to St. Boniface via Tache
+7,10-1-WP,St. Boniface-Wolseley to Wolseley-Provencher via Provencher
+8,10-1-#,St.Boniface-Wolseley to Downtown
+9,11-1-D,Portage-Kildonan to North Kildonan via Donwood
+10,11-0-P,Portage-Kildonan to Polo Park
+11,11-1-R,Portage-Kildonan to North Kildonan via Rothesay
+12,11-1-G,Portage-Kildonan to Glenway via
+13,11-0-*,Portage-Kildonan to Henderson
+14,11-0-S,Portage-Kildonan to St. Charles via
+15,11-0-C,Portage-Kildonan to Crestview via
+16,11-0-W,Portage-Kildonan to Westwood via
+17,11-1-##,Portage-Kildonan to Portage & Rouge
+18,12-0-P,William to Polo Park
+19,12-1-C,William to City Hall
+20,14-0-P,St. Mary's-Ellice to South St. Vital via Paddington
+21,14-1-E,St. Mary's-Ellice to Ferry Road
+22,14-0-D,St. Mary's-Ellice to South St. Vital via Dakota
+23,14-1-##,St. Mary's-Ellice to St. Mary's & Dakota
+24,15-0-W,Sargent-Mountain to Airport via Wellington
+25,2-0,On-Request 2
+26,211-0,Standby
+27,20-0-W,Watt-Academy to Watt & Leighton
+28,20-1-H,Watt-Academy to Henderson
+29,20-1-A,Watt-Academy to Airport Terminal
+30,20-0-F,Watt-Academy to Fort & Portage
+31,20-1-T,Watt-Academy to Portage & Tylehurst
+32,20-1-#,Watt-Academy to Downtown
+33,21-0-S,Portage Express to St.Charles
+34,21-1-D,Portage Express to City Hall
+35,21-0-W,Portage Express to Westwood
+36,21-0-C,Portage Express to Crestview
+37,21-0-G,Portage Express to Grace Hospital
+38,22-1-D,Assiniboia Express to City Hall
+39,22-0-C,Assiniboia Express to Crestview
+40,22-0-W,Assiniboia Express to Westwood
+41,22-0-S,Assiniboia Express to St.Charles
+42,23-0-A,Broadway - William to Fort and Assiniboine via Maryland
+43,23-1-C,Broadway - William to City Hall via Sherbrook
+44,24-1-D,Ness Express to City Hall
+45,24-0-U,Ness Express to Unicity
+46,24-1-P,Ness Express to Polo Park
+47,24-1-#,Ness Express to Portage & Tylehurst
+48,25-0-U,Ness Super Express to Unicity
+49,25-1-D,Ness Super Express to City Hall
+50,36-1-C,Northwest Super Express to Health Sciences Centre
+51,30-0-I,Inkster Park Express to Inkster Park
+52,30-1-D,Inkster Park Express to Downtown
+53,31-1-D,Keewatin Express to City Hall
+54,31-0-M,Keewatin Express to Meadows West
+55,31-0-O,Keewatin Express to Oak Point
+56,32-0-L,N.Main Express via Leila
+57,32-1-D,N. Main Express to Downtown
+58,32-0-R,N.Main Express to Riverbend
+59,33-0-J,Maples to Maples via Jefferson
+60,33-1-D2,to Downtown
+61,33-0-M,Maples to Maples via Mapleglen
+62,33-1-D,Maples to Downtown
+63,33-1-Mc,Maples to McPhillips & Mapleglen
+64,34-1-D,McPhillips Super Express to Downtown
+65,34-0-M,McPhillips Super Express to Maples
+66,35-1-C,to City Hall
+67,35-0-A,to Amber Trails
+68,36-0-U,Northwest Super Express to U of Manitoba
+69,36-1-M,Northwest Super Express to Maples via Health Sciences Centre
+70,38-0-T,Salter to Templeton & McPhillips
+71,38-1-F,Salter to The Forks
+72,40-1-D,All Seasons Express to Balmoral Station
+73,40-0-S,All Seasons Express to All Seasons
+74,41-1-D,Henderson Express to Balmoral Station
+75,41-0-G,Henderson Express to Glenway
+76,41-0-N,Henderson Express to North Kildonan
+77,42-0-L,Plessis Express to Lakeside Meadows
+78,42-1-D,Plessis Express to Balmoral Station
+79,43-0-K,Munroe to Kildonan Place
+80,43-1-D,Munroe to Assiniboine
+81,44-0-M,Grey to Kildonan Place via Louelda
+82,44-1-L,Grey to Broadway via London
+83,44-0-L,Grey to Kildonan Place via London
+84,44-1-M,Grey to Broadway via Louelda
+85,44-1-#,Grey to London & Munroe via London
+86,44-1-*,Grey to London & Munroe via Louelda
+87,45-0-K,Talbot to Kildonan Place
+88,45-1-D,Talbot to Downtown
+89,45-0-M,Talbot to Munroe & Prevette
+90,46-1-D,Transcona Express to Balmoral Station
+91,46-0-K,Transcona Express to Transcona via Kildare
+92,46-0-R,Transcona Express to Transcona via Regent
+93,46-1-P,Transcona Express to Plessis & Regent
+94,47-0-K,Transcona - Pembina to Transcona via Kildare
+95,47-1-U,Transcona - Pembina to University of Manitoba via Downtown
+96,47-0-R,Transcona - Pembina to Transcona via Regent
+97,50-1-*,Archibald to Speers and Elizabeth
+98,50-0-S,Archibald to Sage Creek
+99,50-1-D,Archibald to University of Winnipeg
+100,50-1-W,Archibald to Windsor Park
+101,53-1-D,Norwood to Downtown
+102,53-0-N,to Norwood
+103,54-1-D,St. Mary's Express to University of Winnipeg
+104,54-0-A,St. Mary's Express to St. Amant
+105,54-0-S,St. Mary's Express to South St. Vital
+106,55-0-M,St.Anne's to St.Vital Centre via Meadowood
+107,55-1-D,St.Anne's to University of Winnipeg via Dakota
+108,55-0-D,St.Anne's to St. Vital Centre via Dakota
+109,55-1-M,St.Anne's to University of Winnipeg via Meadowood
+110,55-1-*,St.Anne's to St.Anne's & Beliveau
+111,55-1-##,St.Anne's to St. Anne's & Niakwa
+112,56-1-D,St. Boniface to Downtown
+113,56-0-S,to St. Boniface
+114,57-1-D,Southdale Express to University of Winnipeg
+115,57-0-S,Southdale Express to Southdale
+116,58-1-D,Dakota Express to City Hall
+117,58-0-W,Dakota Express to South St. Vital via Paddington
+118,58-0-A,Dakota Express to South St. Vital via Southglen
+119,59-0-A,South St. Anne's Express to Aldgate
+120,59-1-D,South St. Anne's Express to University of Winnipeg
+121,59-0-I,South St. Anne's Express to Island Lakes
+122,671-0-P,Dalhousie to Prairie Pointe via Dalhousie
+123,671-1-U,Dalhousie to University of Manitoba via Dalhousie
+124,672-1-U,Killarney to University of Manitoba via Killarney
+125,672-0-P,Killarney to Prairie Pointe via Killarney
+126,60-0-U,Pembina to University of Manitoba
+127,60-1-D,Pembina to Downtown
+128,65-0-R,Grant Express to Ridgewood
+129,65-1-D,Grant Express to Downtown (City Hall)
+130,66-0-U,Grant to Unicity
+131,66-1-K,Grant to Grant & Kenaston
+132,66-1-D,Grant to Downtown (City Hall)
+133,66-0-P,Grant to Polo Park
+134,66-0-C,Grant to Dieppe Loop
+135,67-0-K#,Charleswood Express to Westdale via
+136,67-1-K,Charleswood Express to City Hall
+137,68-0-R,Grosvenor to River Heights via Wellington Crescent
+138,68-1-D,Grosvenor to Downtown
+139,68-1-#,Grosvenor to Stradbrook & Osborne
+140,635-1-H,Osborne Village to Harkness Station
+141,635-0-M,Osborne Village to Misericordia Health Centre
+142,641-1-B,Lindenwoods West to Beaumont Station via Lindenwoods West
+143,641-0-W,Lindenwoods West to Kenaston via Lindenwoods West
+144,642-1-S,Lindenwoods East to Seel Station via Lindenwoods East
+145,642-0-H,Lindenwoods East to Fort Garry Industrial Park via Lindenwoods East
+146,649-1-W,Chevrier to Windermere via Pembina
+147,75-1-s,Crosstown East to Speers- Elizabeth
+148,71-0-S#,Arlington to Templeton via Sinclair
+149,71-1-M,Arlington to Portage via McPhillips
+150,71-1-S,Arlington to Portage via Sinclair
+151,71-0-M#,Arlington to WalMart via McPhillips
+152,74-0-U,Kenaston to University of Manitoba
+153,74-1-P,Kenaston to Polo Park
+154,75-1-K,Crosstown East to Kildonan Place
+155,75-0-U,Crosstown East to University of Manitoba
+156,77-1-K,Crosstown North to Kildonan Place
+157,77-0-P,Crosstown North to Polo Park
+158,77-0-G,Crosstown North to Garden City Centre
+159,77-1-R,Crosstown North to Red River College
+160,77-1-G,Crosstown North to Garden City Centre
+161,77-1-W,Crosstown North to Whellams Lane
+162,78-0-U,Waverley to University of Manitoba
+163,78-1-P,Waverley to Polo Park
+164,79-1-K,Charleswood to Polo Park via Kenaston
+165,79-0-K#,Charleswood to Westdale via Kenaston
+166,79-1-P,Charleswood to Portage & Tylehurst via Kenaston
+167,82-0-U,to Unicity
+168,82-1-G,to Grace Hospital
+169,83-1-M,to Murray Park
+170,83-0-U,to Unicity
+171,83-1-T,to Thompson & Ness
+172,83-0-P,to Portage & Ronald
+173,83-1-G,to Grace Hospital
+174,83-0-A,to Crestview & Ashern
+175,85-1-W,to Henderson & Whellams
+176,85-0-K,to Kildonan Place
+177,87-1-C,to Crossroads Station
+178,87-0-S,to South Transcona
+179,87-0-B,to Beghin & Dugald
+180,88-1-C,to Cathedral & Main
+181,88-0-F,to Fife
+182,89-0-T,to North Transcona
+183,89-1-K,to Kildonan Place
+184,90-1-W,to Henderson & Whellams
+185,90-0-T,to North Transcona
+186,90-0-K,to Kildonan Place
+187,90-1-k,to Kildonan Place
+188,91-1-K,to Killarney
+189,91-0-S,St Norbert to St.Norbert
+190,92-0-L,to Lakeside Meadows
+191,92-1-C,to Crossroads Station
+192,92-1-K,to Kildonan Place
+193,93-1-S,to St. Vital Centre
+194,93-0-H,to Highbury & Southfields
+195,95-0-pp,to Polo Park
+196,95-1-R,to Riverview
+197,95-0-S,to Shaftesbury Park
+198,96-1-S,to St. Vital Centre
+199,96-0-P,to Paterson Loop via Southdale
+200,97-1-P,to Point Douglas
+201,97-0-F,to Fife
+202,97-1-f,to Fife
+203,98-1-G,to Grace Hospital
+204,98-0-U,to Unicity
+205,98-0-W,to Westdale
