@@ -1,0 +1,1858 @@
+,key,name,Bus_Variant
+0,167.0,St. Amant,16-0-s
+1,18.0,St. Vital Centre,16-0-s
+2,17.0,South St. Vital,16-0-s
+3,10.0,City Hall,11-1-M
+4,5.0,Downtown,11-1-M
+5,9.0,Polo Park,11-1-M
+6,36.0,Polo Park,11-1-M
+7,2.0,Wolseley,10-1-W
+8,76.0,Misericordia Health Centre,10-1-W
+9,62.0,Broadway,10-1-W
+10,1.0,St. Boniface,10-0-SP
+11,5.0,Downtown,10-0-SP
+12,3.0,Provencher,10-0-SP
+13,2.0,Wolseley,10-1-WT
+14,76.0,Misericordia Health Centre,10-1-WT
+15,5.0,Downtown,10-1-WT
+16,62.0,Broadway,10-1-WT
+17,1.0,St. Boniface,10-0-ST
+18,4.0,Tache,10-0-ST
+19,5.0,Downtown,10-0-ST
+20,118.0,St. Boniface Hospital,10-0-ST
+21,2.0,Wolseley,10-1-WP
+22,76.0,Misericordia Health Centre,10-1-WP
+23,5.0,Downtown,10-1-WP
+24,62.0,Broadway,10-1-WP
+25,45.0,Donwood,11-1-D
+26,41.0,Grace Hospital,11-1-D
+27,10.0,City Hall,11-1-D
+28,5.0,Downtown,11-1-D
+29,9.0,Polo Park,11-1-D
+30,30.0,All Seasons,11-1-D
+31,35.0,Unicity,11-1-D
+32,32.0,North Kildonan,11-1-D
+33,228.0,Whellams Lane,11-1-D
+34,36.0,Polo Park,11-1-D
+35,77.0,Portage & Woodhaven,11-1-D
+36,10.0,City Hall,11-0-P
+37,5.0,Downtown,11-0-P
+38,9.0,Polo Park,11-0-P
+39,29.0,University of Winnipeg,11-0-P
+40,36.0,Polo Park,11-0-P
+41,224.0,Balmoral Station,11-0-P
+42,41.0,Grace Hospital,11-1-R
+43,10.0,City Hall,11-1-R
+44,47.0,Rothesay,11-1-R
+45,5.0,Downtown,11-1-R
+46,9.0,Polo Park,11-1-R
+47,35.0,Unicity,11-1-R
+48,32.0,North Kildonan,11-1-R
+49,36.0,Polo Park,11-1-R
+50,77.0,Portage & Woodhaven,11-1-R
+51,41.0,Grace Hospital,11-1-G
+52,10.0,City Hall,11-1-G
+53,5.0,Downtown,11-1-G
+54,9.0,Polo Park,11-1-G
+55,35.0,Unicity,11-1-G
+56,31.0,Glenway,11-1-G
+57,228.0,Whellams Lane,11-1-G
+58,36.0,Polo Park,11-1-G
+59,77.0,Portage & Woodhaven,11-1-G
+60,45.0,Donwood,11-0-*
+61,47.0,Rothesay,11-0-*
+62,43.0,Edison,11-0-*
+63,39.0,St. Charles,11-0-S
+64,41.0,Grace Hospital,11-0-S
+65,10.0,City Hall,11-0-S
+66,5.0,Downtown,11-0-S
+67,9.0,Polo Park,11-0-S
+68,29.0,University of Winnipeg,11-0-S
+69,35.0,Unicity,11-0-S
+70,36.0,Polo Park,11-0-S
+71,224.0,Balmoral Station,11-0-S
+72,41.0,Grace Hospital,11-0-C
+73,42.0,Crestview,11-0-C
+74,10.0,City Hall,11-0-C
+75,5.0,Downtown,11-0-C
+76,9.0,Polo Park,11-0-C
+77,29.0,University of Winnipeg,11-0-C
+78,36.0,Polo Park,11-0-C
+79,224.0,Balmoral Station,11-0-C
+80,41.0,Grace Hospital,11-0-W
+81,10.0,City Hall,11-0-W
+82,5.0,Downtown,11-0-W
+83,9.0,Polo Park,11-0-W
+84,29.0,University of Winnipeg,11-0-W
+85,36.0,Polo Park,11-0-W
+86,40.0,Westwood,11-0-W
+87,224.0,Balmoral Station,11-0-W
+88,11.0,Health Sciences Centre,12-0-P
+89,9.0,Polo Park,12-0-P
+90,36.0,Polo Park,12-0-P
+91,11.0,Health Sciences Centre,12-1-C
+92,10.0,City Hall,12-1-C
+93,61.0,Logan,12-1-C
+94,36.0,Polo Park,12-1-C
+95,26.0,Paddington,14-0-P
+96,18.0,St. Vital Centre,14-0-P
+97,17.0,South St. Vital,14-0-P
+98,5.0,Downtown,14-0-P
+99,62.0,Broadway,14-0-P
+100,18.0,St. Vital Centre,14-1-E
+101,5.0,Downtown,14-1-E
+102,17.0,South St. Vital,14-1-E
+103,16.0,Ferry Road,14-1-E
+104,18.0,St. Vital Centre,14-0-D
+105,26.0,Paddington,14-0-D
+106,17.0,South St. Vital,14-0-D
+107,5.0,Downtown,14-0-D
+108,62.0,Broadway,14-0-D
+109,115.0,Dakota,14-0-D
+110,19.0,Airport,15-0-W
+111,21.0,Wellington,15-0-W
+112,10.0,City Hall,15-0-W
+113,5.0,Downtown,15-0-W
+114,167.0,St. Amant,2-0
+115,109.0,Windsor Park,2-0
+116,75.0,East Kildonan,20-0-W
+117,10.0,City Hall,20-0-W
+118,21.0,Wellington,20-0-W
+119,76.0,Misericordia Health Centre,20-0-W
+120,5.0,Downtown,20-0-W
+121,9.0,Polo Park,20-0-W
+122,36.0,Polo Park,20-0-W
+123,227.0,Henderson,20-1-H
+124,19.0,Airport,20-1-A
+125,21.0,Wellington,20-1-A
+126,76.0,Misericordia Health Centre,20-1-A
+127,10.0,City Hall,20-1-A
+128,64.0,Stafford,20-1-A
+129,5.0,Downtown,20-1-A
+130,9.0,Polo Park,20-1-A
+131,36.0,Polo Park,20-1-A
+132,21.0,Wellington,20-0-F
+133,76.0,Misericordia Health Centre,20-0-F
+134,5.0,Downtown,20-0-F
+135,9.0,Polo Park,20-0-F
+136,36.0,Polo Park,20-0-F
+137,72.0,Main & Pioneer,20-0-F
+138,76.0,Misericordia Health Centre,20-1-T
+139,10.0,City Hall,20-1-T
+140,64.0,Stafford,20-1-T
+141,5.0,Downtown,20-1-T
+142,9.0,Polo Park,20-1-T
+143,36.0,Polo Park,20-1-T
+144,39.0,St. Charles,21-0-S
+145,41.0,Grace Hospital,21-0-S
+146,9.0,Polo Park,21-0-S
+147,29.0,University of Winnipeg,21-0-S
+148,35.0,Unicity,21-0-S
+149,36.0,Polo Park,21-0-S
+150,224.0,Balmoral Station,21-0-S
+151,41.0,Grace Hospital,21-1-D
+152,10.0,City Hall,21-1-D
+153,5.0,Downtown,21-1-D
+154,9.0,Polo Park,21-1-D
+155,35.0,Unicity,21-1-D
+156,36.0,Polo Park,21-1-D
+157,77.0,Portage & Woodhaven,21-1-D
+158,41.0,Grace Hospital,21-0-W
+159,9.0,Polo Park,21-0-W
+160,29.0,University of Winnipeg,21-0-W
+161,36.0,Polo Park,21-0-W
+162,40.0,Westwood,21-0-W
+163,224.0,Balmoral Station,21-0-W
+164,41.0,Grace Hospital,21-0-C
+165,42.0,Crestview,21-0-C
+166,9.0,Polo Park,21-0-C
+167,29.0,University of Winnipeg,21-0-C
+168,36.0,Polo Park,21-0-C
+169,224.0,Balmoral Station,21-0-C
+170,41.0,Grace Hospital,21-0-G
+171,9.0,Polo Park,21-0-G
+172,29.0,University of Winnipeg,21-0-G
+173,36.0,Polo Park,21-0-G
+174,224.0,Balmoral Station,21-0-G
+175,41.0,Grace Hospital,22-1-D
+176,10.0,City Hall,22-1-D
+177,5.0,Downtown,22-1-D
+178,9.0,Polo Park,22-1-D
+179,77.0,Portage & Woodhaven,22-1-D
+180,36.0,Polo Park,22-1-D
+181,41.0,Grace Hospital,22-0-C
+182,42.0,Crestview,22-0-C
+183,9.0,Polo Park,22-0-C
+184,29.0,University of Winnipeg,22-0-C
+185,36.0,Polo Park,22-0-C
+186,224.0,Balmoral Station,22-0-C
+187,41.0,Grace Hospital,22-0-W
+188,9.0,Polo Park,22-0-W
+189,29.0,University of Winnipeg,22-0-W
+190,40.0,Westwood,22-0-W
+191,36.0,Polo Park,22-0-W
+192,224.0,Balmoral Station,22-0-W
+193,39.0,St. Charles,22-0-S
+194,41.0,Grace Hospital,22-0-S
+195,9.0,Polo Park,22-0-S
+196,29.0,University of Winnipeg,22-0-S
+197,36.0,Polo Park,22-0-S
+198,224.0,Balmoral Station,22-0-S
+199,11.0,Health Sciences Centre,23-0-A
+200,5.0,Downtown,23-0-A
+201,258.0,Legislature,23-0-A
+202,271.0,Union Station,23-0-A
+203,11.0,Health Sciences Centre,23-1-C
+204,10.0,City Hall,23-1-C
+205,5.0,Downtown,23-1-C
+206,258.0,Legislature,23-1-C
+207,10.0,City Hall,24-1-D
+208,5.0,Downtown,24-1-D
+209,9.0,Polo Park,24-1-D
+210,36.0,Polo Park,24-1-D
+211,9.0,Polo Park,24-0-U
+212,29.0,University of Winnipeg,24-0-U
+213,35.0,Unicity,24-0-U
+214,36.0,Polo Park,24-0-U
+215,224.0,Balmoral Station,24-0-U
+216,217.0,Strauss Dr,24-0-U
+217,9.0,Polo Park,24-1-P
+218,36.0,Polo Park,24-1-P
+219,29.0,University of Winnipeg,25-0-U
+220,35.0,Unicity,25-0-U
+221,36.0,Polo Park,25-0-U
+222,224.0,Balmoral Station,25-0-U
+223,217.0,Strauss Dr,25-0-U
+224,10.0,City Hall,25-1-D
+225,5.0,Downtown,25-1-D
+226,35.0,Unicity,25-1-D
+227,36.0,Polo Park,25-1-D
+228,11.0,Health Sciences Centre,36-1-C
+229,11.0,Health Sciences Centre,30-0-I
+230,23.0,Inkster,30-0-I
+231,58.0,Inkster Park,30-0-I
+232,5.0,Downtown,30-0-I
+233,44.0,Notre Dame,30-0-I
+234,11.0,Health Sciences Centre,30-1-D
+235,5.0,Downtown,30-1-D
+236,81.0,Oak Point,31-1-D
+237,11.0,Health Sciences Centre,31-1-D
+238,10.0,City Hall,31-1-D
+239,5.0,Downtown,31-1-D
+240,160.0,Tyndall Park,31-1-D
+241,11.0,Health Sciences Centre,31-0-M
+242,61.0,Logan,31-0-M
+243,81.0,Oak Point,31-0-O
+244,11.0,Health Sciences Centre,31-0-O
+245,160.0,Tyndall Park,31-0-O
+246,61.0,Logan,31-0-O
+247,10.0,City Hall,32-0-L
+248,86.0,Garden City Centre,32-0-L
+249,87.0,Seven Oaks Hospital,32-0-L
+250,203.0,Templeton & McPhillips,32-0-L
+251,10.0,City Hall,32-1-D
+252,5.0,Downtown,32-1-D
+253,83.0,Riverbend,32-0-R
+254,10.0,City Hall,32-0-R
+255,11.0,Health Sciences Centre,33-0-J
+256,89.0,Maples,33-0-J
+257,162.0,Burrows,33-0-J
+258,91.0,Jefferson,33-0-J
+259,132.0,McPhillips,33-0-J
+260,11.0,Health Sciences Centre,33-1-D2
+261,89.0,Maples,33-1-D2
+262,5.0,Downtown,33-1-D2
+263,11.0,Health Sciences Centre,33-0-M
+264,89.0,Maples,33-0-M
+265,162.0,Burrows,33-0-M
+266,132.0,McPhillips,33-0-M
+267,90.0,Mapleglen,33-0-M
+268,188.0,Amber Trails,33-0-M
+269,11.0,Health Sciences Centre,33-1-D
+270,5.0,Downtown,33-1-D
+271,188.0,Amber Trails,33-1-D
+272,89.0,Maples,33-1-Mc
+273,88.0,McPhillips & Mapleglen,33-1-Mc
+274,188.0,Amber Trails,33-1-Mc
+275,11.0,Health Sciences Centre,34-1-D
+276,99.0,Assiniboine,34-1-D
+277,5.0,Downtown,34-1-D
+278,62.0,Broadway,34-1-D
+279,89.0,Maples,34-0-M
+280,11.0,Health Sciences Centre,34-0-M
+281,62.0,Broadway,34-0-M
+282,5.0,Downtown,34-0-M
+283,44.0,Notre Dame,34-0-M
+284,89.0,Maples,35-1-C
+285,11.0,Health Sciences Centre,35-1-C
+286,10.0,City Hall,35-1-C
+287,5.0,Downtown,35-1-C
+288,89.0,Maples,35-0-A
+289,11.0,Health Sciences Centre,35-0-A
+290,90.0,Mapleglen,35-0-A
+291,188.0,Amber Trails,35-0-A
+292,89.0,Maples,36-0-U
+293,11.0,Health Sciences Centre,36-0-U
+294,76.0,Misericordia Health Centre,36-0-U
+295,93.0,University of Manitoba,36-0-U
+296,11.0,Health Sciences Centre,36-1-M
+297,89.0,Maples,36-1-M
+298,44.0,Notre Dame,36-1-M
+299,90.0,Mapleglen,36-1-M
+300,86.0,Garden City Centre,38-0-T
+301,5.0,Downtown,38-0-T
+302,87.0,Seven Oaks Hospital,38-0-T
+303,203.0,Templeton & McPhillips,38-0-T
+304,229.0,Templeton & Salter,38-1-F
+305,97.0,The Forks,38-1-F
+306,5.0,Downtown,38-1-F
+307,10.0,City Hall,40-1-D
+308,5.0,Downtown,40-1-D
+309,29.0,University of Winnipeg,40-1-D
+310,32.0,North Kildonan,40-1-D
+311,224.0,Balmoral Station,40-1-D
+312,10.0,City Hall,40-0-S
+313,47.0,Rothesay,40-0-S
+314,5.0,Downtown,40-0-S
+315,30.0,All Seasons,40-0-S
+316,32.0,North Kildonan,40-0-S
+317,10.0,City Hall,41-1-D
+318,5.0,Downtown,41-1-D
+319,29.0,University of Winnipeg,41-1-D
+320,224.0,Balmoral Station,41-1-D
+321,10.0,City Hall,41-0-G
+322,5.0,Downtown,41-0-G
+323,31.0,Glenway,41-0-G
+324,228.0,Whellams Lane,41-0-G
+325,45.0,Donwood,41-0-N
+326,10.0,City Hall,41-0-N
+327,5.0,Downtown,41-0-N
+328,32.0,North Kildonan,41-0-N
+329,56.0,Lakeside Meadows,42-0-L
+330,57.0,Plessis & Regent,42-0-L
+331,10.0,City Hall,42-0-L
+332,55.0,Kildonan Place,42-0-L
+333,5.0,Downtown,42-0-L
+334,106.0,Kildare,42-0-L
+335,56.0,Lakeside Meadows,42-1-D
+336,55.0,Kildonan Place,42-1-D
+337,10.0,City Hall,42-1-D
+338,5.0,Downtown,42-1-D
+339,106.0,Kildare,42-1-D
+340,224.0,Balmoral Station,42-1-D
+341,101.0,Louelda,43-0-K
+342,55.0,Kildonan Place,43-0-K
+343,3.0,Provencher,43-0-K
+344,5.0,Downtown,43-0-K
+345,104.0,Munroe,43-1-D
+346,99.0,Assiniboine,43-1-D
+347,5.0,Downtown,43-1-D
+348,62.0,Broadway,43-1-D
+349,101.0,Louelda,44-0-M
+350,10.0,City Hall,44-0-M
+351,55.0,Kildonan Place,44-0-M
+352,99.0,Assiniboine,44-0-M
+353,10.0,City Hall,44-1-L
+354,99.0,Assiniboine,44-1-L
+355,5.0,Downtown,44-1-L
+356,62.0,Broadway,44-1-L
+357,102.0,London,44-1-L
+358,10.0,City Hall,44-0-L
+359,55.0,Kildonan Place,44-0-L
+360,99.0,Assiniboine,44-0-L
+361,102.0,London,44-0-L
+362,101.0,Louelda,44-1-M
+363,10.0,City Hall,44-1-M
+364,99.0,Assiniboine,44-1-M
+365,5.0,Downtown,44-1-M
+366,62.0,Broadway,44-1-M
+367,104.0,Munroe,44-1-*
+368,101.0,Louelda,44-1-*
+369,156.0,Point Douglas,45-0-K
+370,104.0,Munroe,45-0-K
+371,10.0,City Hall,45-0-K
+372,55.0,Kildonan Place,45-0-K
+373,248.0,Crossroads Station,45-0-K
+374,104.0,Munroe,45-1-D
+375,10.0,City Hall,45-1-D
+376,5.0,Downtown,45-1-D
+377,156.0,Point Douglas,45-0-M
+378,104.0,Munroe,45-0-M
+379,10.0,City Hall,45-0-M
+380,10.0,City Hall,46-1-D
+381,55.0,Kildonan Place,46-1-D
+382,5.0,Downtown,46-1-D
+383,224.0,Balmoral Station,46-1-D
+384,10.0,City Hall,46-0-K
+385,55.0,Kildonan Place,46-0-K
+386,5.0,Downtown,46-0-K
+387,105.0,Transcona,46-0-K
+388,106.0,Kildare,46-0-K
+389,10.0,City Hall,46-0-R
+390,55.0,Kildonan Place,46-0-R
+391,5.0,Downtown,46-0-R
+392,107.0,Regent,46-0-R
+393,105.0,Transcona,46-0-R
+394,57.0,Plessis & Regent,46-1-P
+395,219.0,Regent & Plessis,46-1-P
+396,10.0,City Hall,47-0-K
+397,55.0,Kildonan Place,47-0-K
+398,5.0,Downtown,47-0-K
+399,105.0,Transcona,47-0-K
+400,106.0,Kildare,47-0-K
+401,10.0,City Hall,47-1-U
+402,55.0,Kildonan Place,47-1-U
+403,5.0,Downtown,47-1-U
+404,62.0,Broadway,47-1-U
+405,93.0,University of Manitoba,47-1-U
+406,10.0,City Hall,47-0-R
+407,55.0,Kildonan Place,47-0-R
+408,5.0,Downtown,47-0-R
+409,107.0,Regent,47-0-R
+410,105.0,Transcona,47-0-R
+411,109.0,Windsor Park,50-1-*
+412,110.0,Southland Park,50-1-*
+413,109.0,Windsor Park,50-0-S
+414,3.0,Provencher,50-0-S
+415,5.0,Downtown,50-0-S
+416,108.0,Sage Creek,50-0-S
+417,110.0,Southland Park,50-0-S
+418,109.0,Windsor Park,50-1-D
+419,5.0,Downtown,50-1-D
+420,29.0,University of Winnipeg,50-1-D
+421,224.0,Balmoral Station,50-1-D
+422,110.0,Southland Park,50-1-D
+423,167.0,St. Amant,16-0-s
+424,18.0,St. Vital Centre,16-0-s
+425,17.0,South St. Vital,16-0-s
+426,10.0,City Hall,11-1-M
+427,5.0,Downtown,11-1-M
+428,9.0,Polo Park,11-1-M
+429,36.0,Polo Park,11-1-M
+430,2.0,Wolseley,10-1-W
+431,76.0,Misericordia Health Centre,10-1-W
+432,62.0,Broadway,10-1-W
+433,1.0,St. Boniface,10-0-SP
+434,5.0,Downtown,10-0-SP
+435,3.0,Provencher,10-0-SP
+436,2.0,Wolseley,10-1-WT
+437,76.0,Misericordia Health Centre,10-1-WT
+438,5.0,Downtown,10-1-WT
+439,62.0,Broadway,10-1-WT
+440,1.0,St. Boniface,10-0-ST
+441,4.0,Tache,10-0-ST
+442,5.0,Downtown,10-0-ST
+443,118.0,St. Boniface Hospital,10-0-ST
+444,2.0,Wolseley,10-1-WP
+445,76.0,Misericordia Health Centre,10-1-WP
+446,5.0,Downtown,10-1-WP
+447,62.0,Broadway,10-1-WP
+448,45.0,Donwood,11-1-D
+449,41.0,Grace Hospital,11-1-D
+450,10.0,City Hall,11-1-D
+451,5.0,Downtown,11-1-D
+452,9.0,Polo Park,11-1-D
+453,30.0,All Seasons,11-1-D
+454,35.0,Unicity,11-1-D
+455,32.0,North Kildonan,11-1-D
+456,228.0,Whellams Lane,11-1-D
+457,36.0,Polo Park,11-1-D
+458,77.0,Portage & Woodhaven,11-1-D
+459,10.0,City Hall,11-0-P
+460,5.0,Downtown,11-0-P
+461,9.0,Polo Park,11-0-P
+462,29.0,University of Winnipeg,11-0-P
+463,36.0,Polo Park,11-0-P
+464,224.0,Balmoral Station,11-0-P
+465,41.0,Grace Hospital,11-1-R
+466,10.0,City Hall,11-1-R
+467,47.0,Rothesay,11-1-R
+468,5.0,Downtown,11-1-R
+469,9.0,Polo Park,11-1-R
+470,35.0,Unicity,11-1-R
+471,32.0,North Kildonan,11-1-R
+472,36.0,Polo Park,11-1-R
+473,77.0,Portage & Woodhaven,11-1-R
+474,41.0,Grace Hospital,11-1-G
+475,10.0,City Hall,11-1-G
+476,5.0,Downtown,11-1-G
+477,9.0,Polo Park,11-1-G
+478,35.0,Unicity,11-1-G
+479,31.0,Glenway,11-1-G
+480,228.0,Whellams Lane,11-1-G
+481,36.0,Polo Park,11-1-G
+482,77.0,Portage & Woodhaven,11-1-G
+483,45.0,Donwood,11-0-*
+484,47.0,Rothesay,11-0-*
+485,43.0,Edison,11-0-*
+486,39.0,St. Charles,11-0-S
+487,41.0,Grace Hospital,11-0-S
+488,10.0,City Hall,11-0-S
+489,5.0,Downtown,11-0-S
+490,9.0,Polo Park,11-0-S
+491,29.0,University of Winnipeg,11-0-S
+492,35.0,Unicity,11-0-S
+493,36.0,Polo Park,11-0-S
+494,224.0,Balmoral Station,11-0-S
+495,41.0,Grace Hospital,11-0-C
+496,42.0,Crestview,11-0-C
+497,10.0,City Hall,11-0-C
+498,5.0,Downtown,11-0-C
+499,9.0,Polo Park,11-0-C
+500,29.0,University of Winnipeg,11-0-C
+501,36.0,Polo Park,11-0-C
+502,224.0,Balmoral Station,11-0-C
+503,41.0,Grace Hospital,11-0-W
+504,10.0,City Hall,11-0-W
+505,5.0,Downtown,11-0-W
+506,9.0,Polo Park,11-0-W
+507,29.0,University of Winnipeg,11-0-W
+508,36.0,Polo Park,11-0-W
+509,40.0,Westwood,11-0-W
+510,224.0,Balmoral Station,11-0-W
+511,11.0,Health Sciences Centre,12-0-P
+512,9.0,Polo Park,12-0-P
+513,36.0,Polo Park,12-0-P
+514,11.0,Health Sciences Centre,12-1-C
+515,10.0,City Hall,12-1-C
+516,61.0,Logan,12-1-C
+517,36.0,Polo Park,12-1-C
+518,26.0,Paddington,14-0-P
+519,18.0,St. Vital Centre,14-0-P
+520,17.0,South St. Vital,14-0-P
+521,5.0,Downtown,14-0-P
+522,62.0,Broadway,14-0-P
+523,18.0,St. Vital Centre,14-1-E
+524,5.0,Downtown,14-1-E
+525,17.0,South St. Vital,14-1-E
+526,16.0,Ferry Road,14-1-E
+527,18.0,St. Vital Centre,14-0-D
+528,26.0,Paddington,14-0-D
+529,17.0,South St. Vital,14-0-D
+530,5.0,Downtown,14-0-D
+531,62.0,Broadway,14-0-D
+532,115.0,Dakota,14-0-D
+533,19.0,Airport,15-0-W
+534,21.0,Wellington,15-0-W
+535,10.0,City Hall,15-0-W
+536,5.0,Downtown,15-0-W
+537,167.0,St. Amant,2-0
+538,109.0,Windsor Park,2-0
+539,75.0,East Kildonan,20-0-W
+540,10.0,City Hall,20-0-W
+541,21.0,Wellington,20-0-W
+542,76.0,Misericordia Health Centre,20-0-W
+543,5.0,Downtown,20-0-W
+544,9.0,Polo Park,20-0-W
+545,36.0,Polo Park,20-0-W
+546,227.0,Henderson,20-1-H
+547,19.0,Airport,20-1-A
+548,21.0,Wellington,20-1-A
+549,76.0,Misericordia Health Centre,20-1-A
+550,10.0,City Hall,20-1-A
+551,64.0,Stafford,20-1-A
+552,5.0,Downtown,20-1-A
+553,9.0,Polo Park,20-1-A
+554,36.0,Polo Park,20-1-A
+555,21.0,Wellington,20-0-F
+556,76.0,Misericordia Health Centre,20-0-F
+557,5.0,Downtown,20-0-F
+558,9.0,Polo Park,20-0-F
+559,36.0,Polo Park,20-0-F
+560,72.0,Main & Pioneer,20-0-F
+561,76.0,Misericordia Health Centre,20-1-T
+562,10.0,City Hall,20-1-T
+563,64.0,Stafford,20-1-T
+564,5.0,Downtown,20-1-T
+565,9.0,Polo Park,20-1-T
+566,36.0,Polo Park,20-1-T
+567,39.0,St. Charles,21-0-S
+568,41.0,Grace Hospital,21-0-S
+569,9.0,Polo Park,21-0-S
+570,29.0,University of Winnipeg,21-0-S
+571,35.0,Unicity,21-0-S
+572,36.0,Polo Park,21-0-S
+573,224.0,Balmoral Station,21-0-S
+574,41.0,Grace Hospital,21-1-D
+575,10.0,City Hall,21-1-D
+576,5.0,Downtown,21-1-D
+577,9.0,Polo Park,21-1-D
+578,35.0,Unicity,21-1-D
+579,36.0,Polo Park,21-1-D
+580,77.0,Portage & Woodhaven,21-1-D
+581,41.0,Grace Hospital,21-0-W
+582,9.0,Polo Park,21-0-W
+583,29.0,University of Winnipeg,21-0-W
+584,36.0,Polo Park,21-0-W
+585,40.0,Westwood,21-0-W
+586,224.0,Balmoral Station,21-0-W
+587,41.0,Grace Hospital,21-0-C
+588,42.0,Crestview,21-0-C
+589,9.0,Polo Park,21-0-C
+590,29.0,University of Winnipeg,21-0-C
+591,36.0,Polo Park,21-0-C
+592,224.0,Balmoral Station,21-0-C
+593,41.0,Grace Hospital,21-0-G
+594,9.0,Polo Park,21-0-G
+595,29.0,University of Winnipeg,21-0-G
+596,36.0,Polo Park,21-0-G
+597,224.0,Balmoral Station,21-0-G
+598,41.0,Grace Hospital,22-1-D
+599,10.0,City Hall,22-1-D
+600,5.0,Downtown,22-1-D
+601,9.0,Polo Park,22-1-D
+602,77.0,Portage & Woodhaven,22-1-D
+603,36.0,Polo Park,22-1-D
+604,41.0,Grace Hospital,22-0-C
+605,42.0,Crestview,22-0-C
+606,9.0,Polo Park,22-0-C
+607,29.0,University of Winnipeg,22-0-C
+608,36.0,Polo Park,22-0-C
+609,224.0,Balmoral Station,22-0-C
+610,41.0,Grace Hospital,22-0-W
+611,9.0,Polo Park,22-0-W
+612,29.0,University of Winnipeg,22-0-W
+613,40.0,Westwood,22-0-W
+614,36.0,Polo Park,22-0-W
+615,224.0,Balmoral Station,22-0-W
+616,39.0,St. Charles,22-0-S
+617,41.0,Grace Hospital,22-0-S
+618,9.0,Polo Park,22-0-S
+619,29.0,University of Winnipeg,22-0-S
+620,36.0,Polo Park,22-0-S
+621,224.0,Balmoral Station,22-0-S
+622,11.0,Health Sciences Centre,23-0-A
+623,5.0,Downtown,23-0-A
+624,258.0,Legislature,23-0-A
+625,271.0,Union Station,23-0-A
+626,11.0,Health Sciences Centre,23-1-C
+627,10.0,City Hall,23-1-C
+628,5.0,Downtown,23-1-C
+629,258.0,Legislature,23-1-C
+630,10.0,City Hall,24-1-D
+631,5.0,Downtown,24-1-D
+632,9.0,Polo Park,24-1-D
+633,36.0,Polo Park,24-1-D
+634,9.0,Polo Park,24-0-U
+635,29.0,University of Winnipeg,24-0-U
+636,35.0,Unicity,24-0-U
+637,36.0,Polo Park,24-0-U
+638,224.0,Balmoral Station,24-0-U
+639,217.0,Strauss Dr,24-0-U
+640,9.0,Polo Park,24-1-P
+641,36.0,Polo Park,24-1-P
+642,29.0,University of Winnipeg,25-0-U
+643,35.0,Unicity,25-0-U
+644,36.0,Polo Park,25-0-U
+645,224.0,Balmoral Station,25-0-U
+646,217.0,Strauss Dr,25-0-U
+647,10.0,City Hall,25-1-D
+648,5.0,Downtown,25-1-D
+649,35.0,Unicity,25-1-D
+650,36.0,Polo Park,25-1-D
+651,11.0,Health Sciences Centre,36-1-C
+652,11.0,Health Sciences Centre,30-0-I
+653,23.0,Inkster,30-0-I
+654,58.0,Inkster Park,30-0-I
+655,5.0,Downtown,30-0-I
+656,44.0,Notre Dame,30-0-I
+657,11.0,Health Sciences Centre,30-1-D
+658,5.0,Downtown,30-1-D
+659,81.0,Oak Point,31-1-D
+660,11.0,Health Sciences Centre,31-1-D
+661,10.0,City Hall,31-1-D
+662,5.0,Downtown,31-1-D
+663,160.0,Tyndall Park,31-1-D
+664,11.0,Health Sciences Centre,31-0-M
+665,61.0,Logan,31-0-M
+666,81.0,Oak Point,31-0-O
+667,11.0,Health Sciences Centre,31-0-O
+668,160.0,Tyndall Park,31-0-O
+669,61.0,Logan,31-0-O
+670,10.0,City Hall,32-0-L
+671,86.0,Garden City Centre,32-0-L
+672,87.0,Seven Oaks Hospital,32-0-L
+673,203.0,Templeton & McPhillips,32-0-L
+674,10.0,City Hall,32-1-D
+675,5.0,Downtown,32-1-D
+676,83.0,Riverbend,32-0-R
+677,10.0,City Hall,32-0-R
+678,11.0,Health Sciences Centre,33-0-J
+679,89.0,Maples,33-0-J
+680,162.0,Burrows,33-0-J
+681,91.0,Jefferson,33-0-J
+682,132.0,McPhillips,33-0-J
+683,11.0,Health Sciences Centre,33-1-D2
+684,89.0,Maples,33-1-D2
+685,5.0,Downtown,33-1-D2
+686,11.0,Health Sciences Centre,33-0-M
+687,89.0,Maples,33-0-M
+688,162.0,Burrows,33-0-M
+689,132.0,McPhillips,33-0-M
+690,90.0,Mapleglen,33-0-M
+691,188.0,Amber Trails,33-0-M
+692,11.0,Health Sciences Centre,33-1-D
+693,5.0,Downtown,33-1-D
+694,188.0,Amber Trails,33-1-D
+695,89.0,Maples,33-1-Mc
+696,88.0,McPhillips & Mapleglen,33-1-Mc
+697,188.0,Amber Trails,33-1-Mc
+698,11.0,Health Sciences Centre,34-1-D
+699,99.0,Assiniboine,34-1-D
+700,5.0,Downtown,34-1-D
+701,62.0,Broadway,34-1-D
+702,89.0,Maples,34-0-M
+703,11.0,Health Sciences Centre,34-0-M
+704,62.0,Broadway,34-0-M
+705,5.0,Downtown,34-0-M
+706,44.0,Notre Dame,34-0-M
+707,89.0,Maples,35-1-C
+708,11.0,Health Sciences Centre,35-1-C
+709,10.0,City Hall,35-1-C
+710,5.0,Downtown,35-1-C
+711,89.0,Maples,35-0-A
+712,11.0,Health Sciences Centre,35-0-A
+713,90.0,Mapleglen,35-0-A
+714,188.0,Amber Trails,35-0-A
+715,89.0,Maples,36-0-U
+716,11.0,Health Sciences Centre,36-0-U
+717,76.0,Misericordia Health Centre,36-0-U
+718,93.0,University of Manitoba,36-0-U
+719,11.0,Health Sciences Centre,36-1-M
+720,89.0,Maples,36-1-M
+721,44.0,Notre Dame,36-1-M
+722,90.0,Mapleglen,36-1-M
+723,86.0,Garden City Centre,38-0-T
+724,5.0,Downtown,38-0-T
+725,87.0,Seven Oaks Hospital,38-0-T
+726,203.0,Templeton & McPhillips,38-0-T
+727,229.0,Templeton & Salter,38-1-F
+728,97.0,The Forks,38-1-F
+729,5.0,Downtown,38-1-F
+730,10.0,City Hall,40-1-D
+731,5.0,Downtown,40-1-D
+732,29.0,University of Winnipeg,40-1-D
+733,32.0,North Kildonan,40-1-D
+734,224.0,Balmoral Station,40-1-D
+735,10.0,City Hall,40-0-S
+736,47.0,Rothesay,40-0-S
+737,5.0,Downtown,40-0-S
+738,30.0,All Seasons,40-0-S
+739,32.0,North Kildonan,40-0-S
+740,10.0,City Hall,41-1-D
+741,5.0,Downtown,41-1-D
+742,29.0,University of Winnipeg,41-1-D
+743,224.0,Balmoral Station,41-1-D
+744,10.0,City Hall,41-0-G
+745,5.0,Downtown,41-0-G
+746,31.0,Glenway,41-0-G
+747,228.0,Whellams Lane,41-0-G
+748,45.0,Donwood,41-0-N
+749,10.0,City Hall,41-0-N
+750,5.0,Downtown,41-0-N
+751,32.0,North Kildonan,41-0-N
+752,56.0,Lakeside Meadows,42-0-L
+753,57.0,Plessis & Regent,42-0-L
+754,10.0,City Hall,42-0-L
+755,55.0,Kildonan Place,42-0-L
+756,5.0,Downtown,42-0-L
+757,106.0,Kildare,42-0-L
+758,56.0,Lakeside Meadows,42-1-D
+759,55.0,Kildonan Place,42-1-D
+760,10.0,City Hall,42-1-D
+761,5.0,Downtown,42-1-D
+762,106.0,Kildare,42-1-D
+763,224.0,Balmoral Station,42-1-D
+764,101.0,Louelda,43-0-K
+765,55.0,Kildonan Place,43-0-K
+766,3.0,Provencher,43-0-K
+767,5.0,Downtown,43-0-K
+768,104.0,Munroe,43-1-D
+769,99.0,Assiniboine,43-1-D
+770,5.0,Downtown,43-1-D
+771,62.0,Broadway,43-1-D
+772,101.0,Louelda,44-0-M
+773,10.0,City Hall,44-0-M
+774,55.0,Kildonan Place,44-0-M
+775,99.0,Assiniboine,44-0-M
+776,10.0,City Hall,44-1-L
+777,99.0,Assiniboine,44-1-L
+778,5.0,Downtown,44-1-L
+779,62.0,Broadway,44-1-L
+780,102.0,London,44-1-L
+781,10.0,City Hall,44-0-L
+782,55.0,Kildonan Place,44-0-L
+783,99.0,Assiniboine,44-0-L
+784,102.0,London,44-0-L
+785,101.0,Louelda,44-1-M
+786,10.0,City Hall,44-1-M
+787,99.0,Assiniboine,44-1-M
+788,5.0,Downtown,44-1-M
+789,62.0,Broadway,44-1-M
+790,104.0,Munroe,44-1-*
+791,101.0,Louelda,44-1-*
+792,156.0,Point Douglas,45-0-K
+793,104.0,Munroe,45-0-K
+794,10.0,City Hall,45-0-K
+795,55.0,Kildonan Place,45-0-K
+796,248.0,Crossroads Station,45-0-K
+797,104.0,Munroe,45-1-D
+798,10.0,City Hall,45-1-D
+799,5.0,Downtown,45-1-D
+800,156.0,Point Douglas,45-0-M
+801,104.0,Munroe,45-0-M
+802,10.0,City Hall,45-0-M
+803,10.0,City Hall,46-1-D
+804,55.0,Kildonan Place,46-1-D
+805,5.0,Downtown,46-1-D
+806,224.0,Balmoral Station,46-1-D
+807,10.0,City Hall,46-0-K
+808,55.0,Kildonan Place,46-0-K
+809,5.0,Downtown,46-0-K
+810,105.0,Transcona,46-0-K
+811,106.0,Kildare,46-0-K
+812,10.0,City Hall,46-0-R
+813,55.0,Kildonan Place,46-0-R
+814,5.0,Downtown,46-0-R
+815,107.0,Regent,46-0-R
+816,105.0,Transcona,46-0-R
+817,57.0,Plessis & Regent,46-1-P
+818,219.0,Regent & Plessis,46-1-P
+819,10.0,City Hall,47-0-K
+820,55.0,Kildonan Place,47-0-K
+821,5.0,Downtown,47-0-K
+822,105.0,Transcona,47-0-K
+823,106.0,Kildare,47-0-K
+824,10.0,City Hall,47-1-U
+825,55.0,Kildonan Place,47-1-U
+826,5.0,Downtown,47-1-U
+827,62.0,Broadway,47-1-U
+828,93.0,University of Manitoba,47-1-U
+829,10.0,City Hall,47-0-R
+830,55.0,Kildonan Place,47-0-R
+831,5.0,Downtown,47-0-R
+832,107.0,Regent,47-0-R
+833,105.0,Transcona,47-0-R
+834,109.0,Windsor Park,50-1-*
+835,110.0,Southland Park,50-1-*
+836,109.0,Windsor Park,50-0-S
+837,3.0,Provencher,50-0-S
+838,5.0,Downtown,50-0-S
+839,108.0,Sage Creek,50-0-S
+840,110.0,Southland Park,50-0-S
+841,109.0,Windsor Park,50-1-D
+842,5.0,Downtown,50-1-D
+843,29.0,University of Winnipeg,50-1-D
+844,224.0,Balmoral Station,50-1-D
+845,110.0,Southland Park,50-1-D
+846,109.0,Windsor Park,50-1-W
+847,111.0,Paterson & Lagimodiere,50-1-W
+848,110.0,Southland Park,50-1-W
+849,5.0,Downtown,53-1-D
+850,33.0,Norwood,53-0-N
+851,62.0,Broadway,53-0-N
+852,5.0,Downtown,53-0-N
+853,167.0,St. Amant,54-1-D
+854,18.0,St. Vital Centre,54-1-D
+855,17.0,South St. Vital,54-1-D
+856,5.0,Downtown,54-1-D
+857,29.0,University of Winnipeg,54-1-D
+858,224.0,Balmoral Station,54-1-D
+859,167.0,St. Amant,54-0-A
+860,26.0,Paddington,54-0-A
+861,18.0,St. Vital Centre,54-0-A
+862,5.0,Downtown,54-0-A
+863,62.0,Broadway,54-0-A
+864,17.0,South St. Vital,54-0-A
+865,114.0,St. Amant,54-0-A
+866,26.0,Paddington,54-0-S
+867,18.0,St. Vital Centre,54-0-S
+868,5.0,Downtown,54-0-S
+869,17.0,South St. Vital,54-0-S
+870,62.0,Broadway,54-0-S
+871,18.0,St. Vital Centre,55-0-M
+872,116.0,Meadowood,55-0-M
+873,5.0,Downtown,55-0-M
+874,62.0,Broadway,55-0-M
+875,18.0,St. Vital Centre,55-1-D
+876,5.0,Downtown,55-1-D
+877,29.0,University of Winnipeg,55-1-D
+878,224.0,Balmoral Station,55-1-D
+879,18.0,St. Vital Centre,55-0-D
+880,5.0,Downtown,55-0-D
+881,62.0,Broadway,55-0-D
+882,115.0,Dakota,55-0-D
+883,5.0,Downtown,55-1-M
+884,29.0,University of Winnipeg,55-1-M
+885,224.0,Balmoral Station,55-1-M
+886,18.0,St. Vital Centre,55-1-*
+887,291.0,St. Anne's & Beliveau,55-1-*
+888,5.0,Downtown,56-1-D
+889,118.0,St. Boniface Hospital,56-1-D
+890,1.0,St. Boniface,56-0-S
+891,118.0,St. Boniface Hospital,56-0-S
+892,109.0,Windsor Park,57-1-D
+893,119.0,Southdale,57-1-D
+894,246.0,Willowlake,57-1-D
+895,5.0,Downtown,57-1-D
+896,29.0,University of Winnipeg,57-1-D
+897,224.0,Balmoral Station,57-1-D
+898,159.0,Southdale Centre,57-0-S
+899,109.0,Windsor Park,57-0-S
+900,119.0,Southdale,57-0-S
+901,246.0,Willowlake,57-0-S
+902,5.0,Downtown,57-0-S
+903,62.0,Broadway,57-0-S
+904,10.0,City Hall,58-1-D
+905,18.0,St. Vital Centre,58-1-D
+906,26.0,Paddington,58-1-D
+907,212.0,Southglen,58-1-D
+908,17.0,South St. Vital,58-1-D
+909,5.0,Downtown,58-1-D
+910,18.0,St. Vital Centre,58-0-W
+911,26.0,Paddington,58-0-W
+912,5.0,Downtown,58-0-W
+913,17.0,South St. Vital,58-0-W
+914,18.0,St. Vital Centre,58-0-A
+915,212.0,Southglen,58-0-A
+916,5.0,Downtown,58-0-A
+917,17.0,South St. Vital,58-0-A
+918,116.0,Meadowood,59-0-A
+919,5.0,Downtown,59-0-A
+920,62.0,Broadway,59-0-A
+921,17.0,South St. Vital,59-0-A
+922,212.0,Southglen,59-1-D
+923,5.0,Downtown,59-1-D
+924,29.0,University of Winnipeg,59-1-D
+925,224.0,Balmoral Station,59-1-D
+926,124.0,Island Lakes,59-0-I
+927,119.0,Southdale,59-0-I
+928,5.0,Downtown,59-0-I
+929,62.0,Broadway,59-0-I
+930,123.0,Richmond West,671-0-P
+931,137.0,Dalhousie,671-0-P
+932,281.0,Prairie Pointe,671-0-P
+933,123.0,Richmond West,671-1-U
+934,137.0,Dalhousie,671-1-U
+935,93.0,University of Manitoba,671-1-U
+936,122.0,Killarney & Pembina,672-1-U
+937,123.0,Richmond West,672-1-U
+938,136.0,Killarney,672-1-U
+939,93.0,University of Manitoba,672-1-U
+940,123.0,Richmond West,672-0-P
+941,136.0,Killarney,672-0-P
+942,281.0,Prairie Pointe,672-0-P
+943,5.0,Downtown,60-0-U
+944,112.0,Victoria Hospital,60-0-U
+945,93.0,University of Manitoba,60-0-U
+946,5.0,Downtown,60-1-D
+947,112.0,Victoria Hospital,60-1-D
+948,273.0,Ridgewood,65-0-R
+949,127.0,Charleswood,65-0-R
+950,128.0,Dale & Windmill,65-0-R
+951,10.0,City Hall,65-1-D
+952,5.0,Downtown,65-1-D
+953,273.0,Ridgewood,65-1-D
+954,151.0,Grant Park Shopping Centre,65-1-D
+955,35.0,Unicity,66-0-U
+956,127.0,Charleswood,66-0-U
+957,151.0,Grant Park Shopping Centre,66-0-U
+958,129.0,Grant & Kenaston,66-1-K
+959,36.0,Polo Park,66-1-K
+960,10.0,City Hall,66-1-D
+961,5.0,Downtown,66-1-D
+962,151.0,Grant Park Shopping Centre,66-1-D
+963,36.0,Polo Park,66-1-D
+964,9.0,Polo Park,66-0-P
+965,151.0,Grant Park Shopping Centre,66-0-P
+966,36.0,Polo Park,66-0-P
+967,127.0,Charleswood,66-0-C
+968,151.0,Grant Park Shopping Centre,66-0-C
+969,10.0,City Hall,67-1-K
+970,5.0,Downtown,67-1-K
+971,9.0,Polo Park,67-1-K
+972,36.0,Polo Park,67-1-K
+973,240.0,Osborne Village,68-0-R
+974,62.0,Broadway,68-0-R
+975,131.0,River Heights,68-0-R
+976,240.0,Osborne Village,68-1-D
+977,5.0,Downtown,68-1-D
+978,242.0,Harkness Station,635-1-H
+979,76.0,Misericordia Health Centre,635-0-M
+980,272.0,Beaumont Station,641-1-B
+981,276.0,Walmart & Kenaston,641-0-W
+982,278.0,Seel Station,642-1-S
+983,277.0,Henlow & Fultz,642-0-H
+984,264.0,Pembina,649-1-W
+985,63.0,Windermere,649-1-W
+986,109.0,Windsor Park,75-1-s
+987,119.0,Southdale,75-1-s
+988,246.0,Willowlake,75-1-s
+989,134.0,Burnell & Portage,71-1-M
+990,132.0,McPhillips,71-1-M
+991,86.0,Garden City Centre,71-1-S
+992,134.0,Burnell & Portage,71-1-S
+993,133.0,Sinclair,71-1-S
+994,275.0,Outlet Mall,74-0-U
+995,36.0,Polo Park,74-0-U
+996,93.0,University of Manitoba,74-0-U
+997,275.0,Outlet Mall,74-1-P
+998,37.0,Portage and Tylehurst,74-1-P
+999,9.0,Polo Park,74-1-P
+1000,36.0,Polo Park,74-1-P
+1001,109.0,Windsor Park,75-1-K
+1002,55.0,Kildonan Place,75-1-K
+1003,119.0,Southdale,75-1-K
+1004,246.0,Willowlake,75-1-K
+1005,159.0,Southdale Centre,75-0-U
+1006,109.0,Windsor Park,75-0-U
+1007,119.0,Southdale,75-0-U
+1008,246.0,Willowlake,75-0-U
+1009,93.0,University of Manitoba,75-0-U
+1010,59.0,Red River College,77-1-K
+1011,55.0,Kildonan Place,77-1-K
+1012,86.0,Garden City Centre,77-1-K
+1013,133.0,Sinclair,77-1-K
+1014,89.0,Maples,77-0-P
+1015,59.0,Red River College,77-0-P
+1016,86.0,Garden City Centre,77-0-P
+1017,9.0,Polo Park,77-0-P
+1018,228.0,Whellams Lane,77-0-P
+1019,87.0,Seven Oaks Hospital,77-0-P
+1020,36.0,Polo Park,77-0-P
+1021,102.0,London,77-0-P
+1022,86.0,Garden City Centre,77-0-G
+1023,228.0,Whellams Lane,77-0-G
+1024,102.0,London,77-0-G
+1025,59.0,Red River College,77-1-R
+1026,59.0,Red River College,77-1-G
+1027,86.0,Garden City Centre,77-1-G
+1028,133.0,Sinclair,77-1-G
+1029,59.0,Red River College,77-1-W
+1030,86.0,Garden City Centre,77-1-W
+1031,133.0,Sinclair,77-1-W
+1032,36.0,Polo Park,78-0-U
+1033,93.0,University of Manitoba,78-0-U
+1034,152.0,Pan Am Pool,78-0-U
+1035,9.0,Polo Park,78-1-P
+1036,36.0,Polo Park,78-1-P
+1037,9.0,Polo Park,79-1-K
+1038,36.0,Polo Park,79-1-K
+1039,37.0,Portage and Tylehurst,79-1-P
+1040,9.0,Polo Park,79-1-P
+1041,36.0,Polo Park,79-1-P
+1042,41.0,Grace Hospital,82-0-U
+1043,35.0,Unicity,82-0-U
+1044,41.0,Grace Hospital,82-1-G
+1045,41.0,Grace Hospital,83-1-M
+1046,213.0,Murray Park,83-1-M
+1047,217.0,Strauss Dr,83-1-M
+1048,41.0,Grace Hospital,83-0-U
+1049,42.0,Crestview,83-0-U
+1050,35.0,Unicity,83-0-U
+1051,217.0,Strauss Dr,83-0-U
+1052,41.0,Grace Hospital,83-1-T
+1053,217.0,Strauss Dr,83-1-T
+1054,218.0,Portage & Ronald,83-0-P
+1055,41.0,Grace Hospital,83-1-G
+1056,218.0,Portage & Ronald,83-1-G
+1057,41.0,Grace Hospital,83-0-A
+1058,42.0,Crestview,83-0-A
+1059,30.0,All Seasons,85-1-W
+1060,32.0,North Kildonan,85-1-W
+1061,228.0,Whellams Lane,85-1-W
+1062,74.0,Concordia Hospital,85-1-W
+1063,55.0,Kildonan Place,85-0-K
+1064,30.0,All Seasons,85-0-K
+1065,32.0,North Kildonan,85-0-K
+1066,74.0,Concordia Hospital,85-0-K
+1067,55.0,Kildonan Place,87-1-C
+1068,53.0,St. Boniface Industrial Park,87-1-C
+1069,248.0,Crossroads Station,87-1-C
+1070,55.0,Kildonan Place,87-0-S
+1071,54.0,South Transcona,87-0-S
+1072,53.0,St. Boniface Industrial Park,87-0-S
+1073,55.0,Kildonan Place,87-0-B
+1074,53.0,St. Boniface Industrial Park,87-0-B
+1075,200.0,Scotia,88-1-C
+1076,58.0,Inkster Park,88-0-F
+1077,52.0,North Transcona,89-0-T
+1078,55.0,Kildonan Place,89-1-K
+1079,105.0,Transcona,89-1-K
+1080,104.0,Munroe,90-1-W
+1081,55.0,Kildonan Place,90-1-W
+1082,47.0,Rothesay,90-1-W
+1083,105.0,Transcona,90-1-W
+1084,228.0,Whellams Lane,90-1-W
+1085,32.0,North Kildonan,90-1-W
+1086,74.0,Concordia Hospital,90-1-W
+1087,52.0,North Transcona,90-0-T
+1088,55.0,Kildonan Place,90-0-T
+1089,74.0,Concordia Hospital,90-0-T
+1090,55.0,Kildonan Place,90-0-K
+1091,74.0,Concordia Hospital,90-0-K
+1092,55.0,Kildonan Place,90-1-k
+1093,105.0,Transcona,90-1-k
+1094,122.0,Killarney & Pembina,91-1-K
+1095,290.0,Pembina & Station,91-0-S
+1096,56.0,Lakeside Meadows,92-0-L
+1097,55.0,Kildonan Place,92-0-L
+1098,106.0,Kildare,92-0-L
+1099,55.0,Kildonan Place,92-1-C
+1100,248.0,Crossroads Station,92-1-C
+1101,55.0,Kildonan Place,92-1-K
+1102,18.0,St. Vital Centre,93-1-S
+1103,17.0,South St. Vital,93-1-S
+1104,26.0,Paddington,93-0-H
+1105,212.0,Southglen,93-0-H
+1106,17.0,South St. Vital,93-0-H
+1107,150.0,Tuxedo,95-0-pp
+1108,306.0,Shaftesbury,95-0-pp
+1109,243.0,Fort Rouge Station,95-0-pp
+1110,9.0,Polo Park,95-0-pp
+1111,151.0,Grant Park Shopping Centre,95-0-pp
+1112,36.0,Polo Park,95-0-pp
+1113,152.0,Pan Am Pool,95-0-pp
+1114,150.0,Tuxedo,95-1-R
+1115,306.0,Shaftesbury,95-1-R
+1116,151.0,Grant Park Shopping Centre,95-1-R
+1117,36.0,Polo Park,95-1-R
+1118,152.0,Pan Am Pool,95-1-R
+1119,154.0,Riverview,95-1-R
+1120,150.0,Tuxedo,95-0-S
+1121,306.0,Shaftesbury,95-0-S
+1122,243.0,Fort Rouge Station,95-0-S
+1123,151.0,Grant Park Shopping Centre,95-0-S
+1124,152.0,Pan Am Pool,95-0-S
+1125,155.0,Royalwood,96-1-S
+1126,18.0,St. Vital Centre,96-1-S
+1127,119.0,Southdale,96-1-S
+1128,246.0,Willowlake,96-1-S
+1129,110.0,Southland Park,96-1-S
+1130,109.0,Windsor Park,96-0-P
+1131,119.0,Southdale,96-0-P
+1132,212.0,Southglen,96-0-P
+1133,246.0,Willowlake,96-0-P
+1134,110.0,Southland Park,96-0-P
+1135,167.0,St. Amant,16-0-s
+1136,18.0,St. Vital Centre,16-0-s
+1137,17.0,South St. Vital,16-0-s
+1138,10.0,City Hall,11-1-M
+1139,5.0,Downtown,11-1-M
+1140,9.0,Polo Park,11-1-M
+1141,36.0,Polo Park,11-1-M
+1142,2.0,Wolseley,10-1-W
+1143,76.0,Misericordia Health Centre,10-1-W
+1144,62.0,Broadway,10-1-W
+1145,1.0,St. Boniface,10-0-SP
+1146,5.0,Downtown,10-0-SP
+1147,3.0,Provencher,10-0-SP
+1148,2.0,Wolseley,10-1-WT
+1149,76.0,Misericordia Health Centre,10-1-WT
+1150,5.0,Downtown,10-1-WT
+1151,62.0,Broadway,10-1-WT
+1152,1.0,St. Boniface,10-0-ST
+1153,4.0,Tache,10-0-ST
+1154,5.0,Downtown,10-0-ST
+1155,118.0,St. Boniface Hospital,10-0-ST
+1156,2.0,Wolseley,10-1-WP
+1157,76.0,Misericordia Health Centre,10-1-WP
+1158,5.0,Downtown,10-1-WP
+1159,62.0,Broadway,10-1-WP
+1160,45.0,Donwood,11-1-D
+1161,41.0,Grace Hospital,11-1-D
+1162,10.0,City Hall,11-1-D
+1163,5.0,Downtown,11-1-D
+1164,9.0,Polo Park,11-1-D
+1165,30.0,All Seasons,11-1-D
+1166,35.0,Unicity,11-1-D
+1167,32.0,North Kildonan,11-1-D
+1168,228.0,Whellams Lane,11-1-D
+1169,36.0,Polo Park,11-1-D
+1170,77.0,Portage & Woodhaven,11-1-D
+1171,10.0,City Hall,11-0-P
+1172,5.0,Downtown,11-0-P
+1173,9.0,Polo Park,11-0-P
+1174,29.0,University of Winnipeg,11-0-P
+1175,36.0,Polo Park,11-0-P
+1176,224.0,Balmoral Station,11-0-P
+1177,41.0,Grace Hospital,11-1-R
+1178,10.0,City Hall,11-1-R
+1179,47.0,Rothesay,11-1-R
+1180,5.0,Downtown,11-1-R
+1181,9.0,Polo Park,11-1-R
+1182,35.0,Unicity,11-1-R
+1183,32.0,North Kildonan,11-1-R
+1184,36.0,Polo Park,11-1-R
+1185,77.0,Portage & Woodhaven,11-1-R
+1186,41.0,Grace Hospital,11-1-G
+1187,10.0,City Hall,11-1-G
+1188,5.0,Downtown,11-1-G
+1189,9.0,Polo Park,11-1-G
+1190,35.0,Unicity,11-1-G
+1191,31.0,Glenway,11-1-G
+1192,228.0,Whellams Lane,11-1-G
+1193,36.0,Polo Park,11-1-G
+1194,77.0,Portage & Woodhaven,11-1-G
+1195,45.0,Donwood,11-0-*
+1196,47.0,Rothesay,11-0-*
+1197,43.0,Edison,11-0-*
+1198,39.0,St. Charles,11-0-S
+1199,41.0,Grace Hospital,11-0-S
+1200,10.0,City Hall,11-0-S
+1201,5.0,Downtown,11-0-S
+1202,9.0,Polo Park,11-0-S
+1203,29.0,University of Winnipeg,11-0-S
+1204,35.0,Unicity,11-0-S
+1205,36.0,Polo Park,11-0-S
+1206,224.0,Balmoral Station,11-0-S
+1207,41.0,Grace Hospital,11-0-C
+1208,42.0,Crestview,11-0-C
+1209,10.0,City Hall,11-0-C
+1210,5.0,Downtown,11-0-C
+1211,9.0,Polo Park,11-0-C
+1212,29.0,University of Winnipeg,11-0-C
+1213,36.0,Polo Park,11-0-C
+1214,224.0,Balmoral Station,11-0-C
+1215,41.0,Grace Hospital,11-0-W
+1216,10.0,City Hall,11-0-W
+1217,5.0,Downtown,11-0-W
+1218,9.0,Polo Park,11-0-W
+1219,29.0,University of Winnipeg,11-0-W
+1220,36.0,Polo Park,11-0-W
+1221,40.0,Westwood,11-0-W
+1222,224.0,Balmoral Station,11-0-W
+1223,11.0,Health Sciences Centre,12-0-P
+1224,9.0,Polo Park,12-0-P
+1225,36.0,Polo Park,12-0-P
+1226,11.0,Health Sciences Centre,12-1-C
+1227,10.0,City Hall,12-1-C
+1228,61.0,Logan,12-1-C
+1229,36.0,Polo Park,12-1-C
+1230,26.0,Paddington,14-0-P
+1231,18.0,St. Vital Centre,14-0-P
+1232,17.0,South St. Vital,14-0-P
+1233,5.0,Downtown,14-0-P
+1234,62.0,Broadway,14-0-P
+1235,18.0,St. Vital Centre,14-1-E
+1236,5.0,Downtown,14-1-E
+1237,17.0,South St. Vital,14-1-E
+1238,16.0,Ferry Road,14-1-E
+1239,18.0,St. Vital Centre,14-0-D
+1240,26.0,Paddington,14-0-D
+1241,17.0,South St. Vital,14-0-D
+1242,5.0,Downtown,14-0-D
+1243,62.0,Broadway,14-0-D
+1244,115.0,Dakota,14-0-D
+1245,19.0,Airport,15-0-W
+1246,21.0,Wellington,15-0-W
+1247,10.0,City Hall,15-0-W
+1248,5.0,Downtown,15-0-W
+1249,167.0,St. Amant,2-0
+1250,109.0,Windsor Park,2-0
+1251,75.0,East Kildonan,20-0-W
+1252,10.0,City Hall,20-0-W
+1253,21.0,Wellington,20-0-W
+1254,76.0,Misericordia Health Centre,20-0-W
+1255,5.0,Downtown,20-0-W
+1256,9.0,Polo Park,20-0-W
+1257,36.0,Polo Park,20-0-W
+1258,227.0,Henderson,20-1-H
+1259,19.0,Airport,20-1-A
+1260,21.0,Wellington,20-1-A
+1261,76.0,Misericordia Health Centre,20-1-A
+1262,10.0,City Hall,20-1-A
+1263,64.0,Stafford,20-1-A
+1264,5.0,Downtown,20-1-A
+1265,9.0,Polo Park,20-1-A
+1266,36.0,Polo Park,20-1-A
+1267,21.0,Wellington,20-0-F
+1268,76.0,Misericordia Health Centre,20-0-F
+1269,5.0,Downtown,20-0-F
+1270,9.0,Polo Park,20-0-F
+1271,36.0,Polo Park,20-0-F
+1272,72.0,Main & Pioneer,20-0-F
+1273,76.0,Misericordia Health Centre,20-1-T
+1274,10.0,City Hall,20-1-T
+1275,64.0,Stafford,20-1-T
+1276,5.0,Downtown,20-1-T
+1277,9.0,Polo Park,20-1-T
+1278,36.0,Polo Park,20-1-T
+1279,39.0,St. Charles,21-0-S
+1280,41.0,Grace Hospital,21-0-S
+1281,9.0,Polo Park,21-0-S
+1282,29.0,University of Winnipeg,21-0-S
+1283,35.0,Unicity,21-0-S
+1284,36.0,Polo Park,21-0-S
+1285,224.0,Balmoral Station,21-0-S
+1286,41.0,Grace Hospital,21-1-D
+1287,10.0,City Hall,21-1-D
+1288,5.0,Downtown,21-1-D
+1289,9.0,Polo Park,21-1-D
+1290,35.0,Unicity,21-1-D
+1291,36.0,Polo Park,21-1-D
+1292,77.0,Portage & Woodhaven,21-1-D
+1293,41.0,Grace Hospital,21-0-W
+1294,9.0,Polo Park,21-0-W
+1295,29.0,University of Winnipeg,21-0-W
+1296,36.0,Polo Park,21-0-W
+1297,40.0,Westwood,21-0-W
+1298,224.0,Balmoral Station,21-0-W
+1299,41.0,Grace Hospital,21-0-C
+1300,42.0,Crestview,21-0-C
+1301,9.0,Polo Park,21-0-C
+1302,29.0,University of Winnipeg,21-0-C
+1303,36.0,Polo Park,21-0-C
+1304,224.0,Balmoral Station,21-0-C
+1305,41.0,Grace Hospital,21-0-G
+1306,9.0,Polo Park,21-0-G
+1307,29.0,University of Winnipeg,21-0-G
+1308,36.0,Polo Park,21-0-G
+1309,224.0,Balmoral Station,21-0-G
+1310,41.0,Grace Hospital,22-1-D
+1311,10.0,City Hall,22-1-D
+1312,5.0,Downtown,22-1-D
+1313,9.0,Polo Park,22-1-D
+1314,77.0,Portage & Woodhaven,22-1-D
+1315,36.0,Polo Park,22-1-D
+1316,41.0,Grace Hospital,22-0-C
+1317,42.0,Crestview,22-0-C
+1318,9.0,Polo Park,22-0-C
+1319,29.0,University of Winnipeg,22-0-C
+1320,36.0,Polo Park,22-0-C
+1321,224.0,Balmoral Station,22-0-C
+1322,41.0,Grace Hospital,22-0-W
+1323,9.0,Polo Park,22-0-W
+1324,29.0,University of Winnipeg,22-0-W
+1325,40.0,Westwood,22-0-W
+1326,36.0,Polo Park,22-0-W
+1327,224.0,Balmoral Station,22-0-W
+1328,39.0,St. Charles,22-0-S
+1329,41.0,Grace Hospital,22-0-S
+1330,9.0,Polo Park,22-0-S
+1331,29.0,University of Winnipeg,22-0-S
+1332,36.0,Polo Park,22-0-S
+1333,224.0,Balmoral Station,22-0-S
+1334,11.0,Health Sciences Centre,23-0-A
+1335,5.0,Downtown,23-0-A
+1336,258.0,Legislature,23-0-A
+1337,271.0,Union Station,23-0-A
+1338,11.0,Health Sciences Centre,23-1-C
+1339,10.0,City Hall,23-1-C
+1340,5.0,Downtown,23-1-C
+1341,258.0,Legislature,23-1-C
+1342,10.0,City Hall,24-1-D
+1343,5.0,Downtown,24-1-D
+1344,9.0,Polo Park,24-1-D
+1345,36.0,Polo Park,24-1-D
+1346,9.0,Polo Park,24-0-U
+1347,29.0,University of Winnipeg,24-0-U
+1348,35.0,Unicity,24-0-U
+1349,36.0,Polo Park,24-0-U
+1350,224.0,Balmoral Station,24-0-U
+1351,217.0,Strauss Dr,24-0-U
+1352,9.0,Polo Park,24-1-P
+1353,36.0,Polo Park,24-1-P
+1354,29.0,University of Winnipeg,25-0-U
+1355,35.0,Unicity,25-0-U
+1356,36.0,Polo Park,25-0-U
+1357,224.0,Balmoral Station,25-0-U
+1358,217.0,Strauss Dr,25-0-U
+1359,10.0,City Hall,25-1-D
+1360,5.0,Downtown,25-1-D
+1361,35.0,Unicity,25-1-D
+1362,36.0,Polo Park,25-1-D
+1363,11.0,Health Sciences Centre,36-1-C
+1364,11.0,Health Sciences Centre,30-0-I
+1365,23.0,Inkster,30-0-I
+1366,58.0,Inkster Park,30-0-I
+1367,5.0,Downtown,30-0-I
+1368,44.0,Notre Dame,30-0-I
+1369,11.0,Health Sciences Centre,30-1-D
+1370,5.0,Downtown,30-1-D
+1371,81.0,Oak Point,31-1-D
+1372,11.0,Health Sciences Centre,31-1-D
+1373,10.0,City Hall,31-1-D
+1374,5.0,Downtown,31-1-D
+1375,160.0,Tyndall Park,31-1-D
+1376,11.0,Health Sciences Centre,31-0-M
+1377,61.0,Logan,31-0-M
+1378,81.0,Oak Point,31-0-O
+1379,11.0,Health Sciences Centre,31-0-O
+1380,160.0,Tyndall Park,31-0-O
+1381,61.0,Logan,31-0-O
+1382,10.0,City Hall,32-0-L
+1383,86.0,Garden City Centre,32-0-L
+1384,87.0,Seven Oaks Hospital,32-0-L
+1385,203.0,Templeton & McPhillips,32-0-L
+1386,10.0,City Hall,32-1-D
+1387,5.0,Downtown,32-1-D
+1388,83.0,Riverbend,32-0-R
+1389,10.0,City Hall,32-0-R
+1390,11.0,Health Sciences Centre,33-0-J
+1391,89.0,Maples,33-0-J
+1392,162.0,Burrows,33-0-J
+1393,91.0,Jefferson,33-0-J
+1394,132.0,McPhillips,33-0-J
+1395,11.0,Health Sciences Centre,33-1-D2
+1396,89.0,Maples,33-1-D2
+1397,5.0,Downtown,33-1-D2
+1398,11.0,Health Sciences Centre,33-0-M
+1399,89.0,Maples,33-0-M
+1400,162.0,Burrows,33-0-M
+1401,132.0,McPhillips,33-0-M
+1402,90.0,Mapleglen,33-0-M
+1403,188.0,Amber Trails,33-0-M
+1404,11.0,Health Sciences Centre,33-1-D
+1405,5.0,Downtown,33-1-D
+1406,188.0,Amber Trails,33-1-D
+1407,89.0,Maples,33-1-Mc
+1408,88.0,McPhillips & Mapleglen,33-1-Mc
+1409,188.0,Amber Trails,33-1-Mc
+1410,11.0,Health Sciences Centre,34-1-D
+1411,99.0,Assiniboine,34-1-D
+1412,5.0,Downtown,34-1-D
+1413,62.0,Broadway,34-1-D
+1414,89.0,Maples,34-0-M
+1415,11.0,Health Sciences Centre,34-0-M
+1416,62.0,Broadway,34-0-M
+1417,5.0,Downtown,34-0-M
+1418,44.0,Notre Dame,34-0-M
+1419,89.0,Maples,35-1-C
+1420,11.0,Health Sciences Centre,35-1-C
+1421,10.0,City Hall,35-1-C
+1422,5.0,Downtown,35-1-C
+1423,89.0,Maples,35-0-A
+1424,11.0,Health Sciences Centre,35-0-A
+1425,90.0,Mapleglen,35-0-A
+1426,188.0,Amber Trails,35-0-A
+1427,89.0,Maples,36-0-U
+1428,11.0,Health Sciences Centre,36-0-U
+1429,76.0,Misericordia Health Centre,36-0-U
+1430,93.0,University of Manitoba,36-0-U
+1431,11.0,Health Sciences Centre,36-1-M
+1432,89.0,Maples,36-1-M
+1433,44.0,Notre Dame,36-1-M
+1434,90.0,Mapleglen,36-1-M
+1435,86.0,Garden City Centre,38-0-T
+1436,5.0,Downtown,38-0-T
+1437,87.0,Seven Oaks Hospital,38-0-T
+1438,203.0,Templeton & McPhillips,38-0-T
+1439,229.0,Templeton & Salter,38-1-F
+1440,97.0,The Forks,38-1-F
+1441,5.0,Downtown,38-1-F
+1442,10.0,City Hall,40-1-D
+1443,5.0,Downtown,40-1-D
+1444,29.0,University of Winnipeg,40-1-D
+1445,32.0,North Kildonan,40-1-D
+1446,224.0,Balmoral Station,40-1-D
+1447,10.0,City Hall,40-0-S
+1448,47.0,Rothesay,40-0-S
+1449,5.0,Downtown,40-0-S
+1450,30.0,All Seasons,40-0-S
+1451,32.0,North Kildonan,40-0-S
+1452,10.0,City Hall,41-1-D
+1453,5.0,Downtown,41-1-D
+1454,29.0,University of Winnipeg,41-1-D
+1455,224.0,Balmoral Station,41-1-D
+1456,10.0,City Hall,41-0-G
+1457,5.0,Downtown,41-0-G
+1458,31.0,Glenway,41-0-G
+1459,228.0,Whellams Lane,41-0-G
+1460,45.0,Donwood,41-0-N
+1461,10.0,City Hall,41-0-N
+1462,5.0,Downtown,41-0-N
+1463,32.0,North Kildonan,41-0-N
+1464,56.0,Lakeside Meadows,42-0-L
+1465,57.0,Plessis & Regent,42-0-L
+1466,10.0,City Hall,42-0-L
+1467,55.0,Kildonan Place,42-0-L
+1468,5.0,Downtown,42-0-L
+1469,106.0,Kildare,42-0-L
+1470,56.0,Lakeside Meadows,42-1-D
+1471,55.0,Kildonan Place,42-1-D
+1472,10.0,City Hall,42-1-D
+1473,5.0,Downtown,42-1-D
+1474,106.0,Kildare,42-1-D
+1475,224.0,Balmoral Station,42-1-D
+1476,101.0,Louelda,43-0-K
+1477,55.0,Kildonan Place,43-0-K
+1478,3.0,Provencher,43-0-K
+1479,5.0,Downtown,43-0-K
+1480,104.0,Munroe,43-1-D
+1481,99.0,Assiniboine,43-1-D
+1482,5.0,Downtown,43-1-D
+1483,62.0,Broadway,43-1-D
+1484,101.0,Louelda,44-0-M
+1485,10.0,City Hall,44-0-M
+1486,55.0,Kildonan Place,44-0-M
+1487,99.0,Assiniboine,44-0-M
+1488,10.0,City Hall,44-1-L
+1489,99.0,Assiniboine,44-1-L
+1490,5.0,Downtown,44-1-L
+1491,62.0,Broadway,44-1-L
+1492,102.0,London,44-1-L
+1493,10.0,City Hall,44-0-L
+1494,55.0,Kildonan Place,44-0-L
+1495,99.0,Assiniboine,44-0-L
+1496,102.0,London,44-0-L
+1497,101.0,Louelda,44-1-M
+1498,10.0,City Hall,44-1-M
+1499,99.0,Assiniboine,44-1-M
+1500,5.0,Downtown,44-1-M
+1501,62.0,Broadway,44-1-M
+1502,104.0,Munroe,44-1-*
+1503,101.0,Louelda,44-1-*
+1504,156.0,Point Douglas,45-0-K
+1505,104.0,Munroe,45-0-K
+1506,10.0,City Hall,45-0-K
+1507,55.0,Kildonan Place,45-0-K
+1508,248.0,Crossroads Station,45-0-K
+1509,104.0,Munroe,45-1-D
+1510,10.0,City Hall,45-1-D
+1511,5.0,Downtown,45-1-D
+1512,156.0,Point Douglas,45-0-M
+1513,104.0,Munroe,45-0-M
+1514,10.0,City Hall,45-0-M
+1515,10.0,City Hall,46-1-D
+1516,55.0,Kildonan Place,46-1-D
+1517,5.0,Downtown,46-1-D
+1518,224.0,Balmoral Station,46-1-D
+1519,10.0,City Hall,46-0-K
+1520,55.0,Kildonan Place,46-0-K
+1521,5.0,Downtown,46-0-K
+1522,105.0,Transcona,46-0-K
+1523,106.0,Kildare,46-0-K
+1524,10.0,City Hall,46-0-R
+1525,55.0,Kildonan Place,46-0-R
+1526,5.0,Downtown,46-0-R
+1527,107.0,Regent,46-0-R
+1528,105.0,Transcona,46-0-R
+1529,57.0,Plessis & Regent,46-1-P
+1530,219.0,Regent & Plessis,46-1-P
+1531,10.0,City Hall,47-0-K
+1532,55.0,Kildonan Place,47-0-K
+1533,5.0,Downtown,47-0-K
+1534,105.0,Transcona,47-0-K
+1535,106.0,Kildare,47-0-K
+1536,10.0,City Hall,47-1-U
+1537,55.0,Kildonan Place,47-1-U
+1538,5.0,Downtown,47-1-U
+1539,62.0,Broadway,47-1-U
+1540,93.0,University of Manitoba,47-1-U
+1541,10.0,City Hall,47-0-R
+1542,55.0,Kildonan Place,47-0-R
+1543,5.0,Downtown,47-0-R
+1544,107.0,Regent,47-0-R
+1545,105.0,Transcona,47-0-R
+1546,109.0,Windsor Park,50-1-*
+1547,110.0,Southland Park,50-1-*
+1548,109.0,Windsor Park,50-0-S
+1549,3.0,Provencher,50-0-S
+1550,5.0,Downtown,50-0-S
+1551,108.0,Sage Creek,50-0-S
+1552,110.0,Southland Park,50-0-S
+1553,109.0,Windsor Park,50-1-D
+1554,5.0,Downtown,50-1-D
+1555,29.0,University of Winnipeg,50-1-D
+1556,224.0,Balmoral Station,50-1-D
+1557,110.0,Southland Park,50-1-D
+1558,109.0,Windsor Park,50-1-W
+1559,111.0,Paterson & Lagimodiere,50-1-W
+1560,110.0,Southland Park,50-1-W
+1561,5.0,Downtown,53-1-D
+1562,33.0,Norwood,53-0-N
+1563,62.0,Broadway,53-0-N
+1564,5.0,Downtown,53-0-N
+1565,167.0,St. Amant,54-1-D
+1566,18.0,St. Vital Centre,54-1-D
+1567,17.0,South St. Vital,54-1-D
+1568,5.0,Downtown,54-1-D
+1569,29.0,University of Winnipeg,54-1-D
+1570,224.0,Balmoral Station,54-1-D
+1571,167.0,St. Amant,54-0-A
+1572,26.0,Paddington,54-0-A
+1573,18.0,St. Vital Centre,54-0-A
+1574,5.0,Downtown,54-0-A
+1575,62.0,Broadway,54-0-A
+1576,17.0,South St. Vital,54-0-A
+1577,114.0,St. Amant,54-0-A
+1578,26.0,Paddington,54-0-S
+1579,18.0,St. Vital Centre,54-0-S
+1580,5.0,Downtown,54-0-S
+1581,17.0,South St. Vital,54-0-S
+1582,62.0,Broadway,54-0-S
+1583,18.0,St. Vital Centre,55-0-M
+1584,116.0,Meadowood,55-0-M
+1585,5.0,Downtown,55-0-M
+1586,62.0,Broadway,55-0-M
+1587,18.0,St. Vital Centre,55-1-D
+1588,5.0,Downtown,55-1-D
+1589,29.0,University of Winnipeg,55-1-D
+1590,224.0,Balmoral Station,55-1-D
+1591,18.0,St. Vital Centre,55-0-D
+1592,5.0,Downtown,55-0-D
+1593,62.0,Broadway,55-0-D
+1594,115.0,Dakota,55-0-D
+1595,5.0,Downtown,55-1-M
+1596,29.0,University of Winnipeg,55-1-M
+1597,224.0,Balmoral Station,55-1-M
+1598,18.0,St. Vital Centre,55-1-*
+1599,291.0,St. Anne's & Beliveau,55-1-*
+1600,5.0,Downtown,56-1-D
+1601,118.0,St. Boniface Hospital,56-1-D
+1602,1.0,St. Boniface,56-0-S
+1603,118.0,St. Boniface Hospital,56-0-S
+1604,109.0,Windsor Park,57-1-D
+1605,119.0,Southdale,57-1-D
+1606,246.0,Willowlake,57-1-D
+1607,5.0,Downtown,57-1-D
+1608,29.0,University of Winnipeg,57-1-D
+1609,224.0,Balmoral Station,57-1-D
+1610,159.0,Southdale Centre,57-0-S
+1611,109.0,Windsor Park,57-0-S
+1612,119.0,Southdale,57-0-S
+1613,246.0,Willowlake,57-0-S
+1614,5.0,Downtown,57-0-S
+1615,62.0,Broadway,57-0-S
+1616,10.0,City Hall,58-1-D
+1617,18.0,St. Vital Centre,58-1-D
+1618,26.0,Paddington,58-1-D
+1619,212.0,Southglen,58-1-D
+1620,17.0,South St. Vital,58-1-D
+1621,5.0,Downtown,58-1-D
+1622,18.0,St. Vital Centre,58-0-W
+1623,26.0,Paddington,58-0-W
+1624,5.0,Downtown,58-0-W
+1625,17.0,South St. Vital,58-0-W
+1626,18.0,St. Vital Centre,58-0-A
+1627,212.0,Southglen,58-0-A
+1628,5.0,Downtown,58-0-A
+1629,17.0,South St. Vital,58-0-A
+1630,116.0,Meadowood,59-0-A
+1631,5.0,Downtown,59-0-A
+1632,62.0,Broadway,59-0-A
+1633,17.0,South St. Vital,59-0-A
+1634,212.0,Southglen,59-1-D
+1635,5.0,Downtown,59-1-D
+1636,29.0,University of Winnipeg,59-1-D
+1637,224.0,Balmoral Station,59-1-D
+1638,124.0,Island Lakes,59-0-I
+1639,119.0,Southdale,59-0-I
+1640,5.0,Downtown,59-0-I
+1641,62.0,Broadway,59-0-I
+1642,123.0,Richmond West,671-0-P
+1643,137.0,Dalhousie,671-0-P
+1644,281.0,Prairie Pointe,671-0-P
+1645,123.0,Richmond West,671-1-U
+1646,137.0,Dalhousie,671-1-U
+1647,93.0,University of Manitoba,671-1-U
+1648,122.0,Killarney & Pembina,672-1-U
+1649,123.0,Richmond West,672-1-U
+1650,136.0,Killarney,672-1-U
+1651,93.0,University of Manitoba,672-1-U
+1652,123.0,Richmond West,672-0-P
+1653,136.0,Killarney,672-0-P
+1654,281.0,Prairie Pointe,672-0-P
+1655,5.0,Downtown,60-0-U
+1656,112.0,Victoria Hospital,60-0-U
+1657,93.0,University of Manitoba,60-0-U
+1658,5.0,Downtown,60-1-D
+1659,112.0,Victoria Hospital,60-1-D
+1660,273.0,Ridgewood,65-0-R
+1661,127.0,Charleswood,65-0-R
+1662,128.0,Dale & Windmill,65-0-R
+1663,10.0,City Hall,65-1-D
+1664,5.0,Downtown,65-1-D
+1665,273.0,Ridgewood,65-1-D
+1666,151.0,Grant Park Shopping Centre,65-1-D
+1667,35.0,Unicity,66-0-U
+1668,127.0,Charleswood,66-0-U
+1669,151.0,Grant Park Shopping Centre,66-0-U
+1670,129.0,Grant & Kenaston,66-1-K
+1671,36.0,Polo Park,66-1-K
+1672,10.0,City Hall,66-1-D
+1673,5.0,Downtown,66-1-D
+1674,151.0,Grant Park Shopping Centre,66-1-D
+1675,36.0,Polo Park,66-1-D
+1676,9.0,Polo Park,66-0-P
+1677,151.0,Grant Park Shopping Centre,66-0-P
+1678,36.0,Polo Park,66-0-P
+1679,127.0,Charleswood,66-0-C
+1680,151.0,Grant Park Shopping Centre,66-0-C
+1681,10.0,City Hall,67-1-K
+1682,5.0,Downtown,67-1-K
+1683,9.0,Polo Park,67-1-K
+1684,36.0,Polo Park,67-1-K
+1685,240.0,Osborne Village,68-0-R
+1686,62.0,Broadway,68-0-R
+1687,131.0,River Heights,68-0-R
+1688,240.0,Osborne Village,68-1-D
+1689,5.0,Downtown,68-1-D
+1690,242.0,Harkness Station,635-1-H
+1691,76.0,Misericordia Health Centre,635-0-M
+1692,272.0,Beaumont Station,641-1-B
+1693,276.0,Walmart & Kenaston,641-0-W
+1694,278.0,Seel Station,642-1-S
+1695,277.0,Henlow & Fultz,642-0-H
+1696,264.0,Pembina,649-1-W
+1697,63.0,Windermere,649-1-W
+1698,109.0,Windsor Park,75-1-s
+1699,119.0,Southdale,75-1-s
+1700,246.0,Willowlake,75-1-s
+1701,134.0,Burnell & Portage,71-1-M
+1702,132.0,McPhillips,71-1-M
+1703,86.0,Garden City Centre,71-1-S
+1704,134.0,Burnell & Portage,71-1-S
+1705,133.0,Sinclair,71-1-S
+1706,275.0,Outlet Mall,74-0-U
+1707,36.0,Polo Park,74-0-U
+1708,93.0,University of Manitoba,74-0-U
+1709,275.0,Outlet Mall,74-1-P
+1710,37.0,Portage and Tylehurst,74-1-P
+1711,9.0,Polo Park,74-1-P
+1712,36.0,Polo Park,74-1-P
+1713,109.0,Windsor Park,75-1-K
+1714,55.0,Kildonan Place,75-1-K
+1715,119.0,Southdale,75-1-K
+1716,246.0,Willowlake,75-1-K
+1717,159.0,Southdale Centre,75-0-U
+1718,109.0,Windsor Park,75-0-U
+1719,119.0,Southdale,75-0-U
+1720,246.0,Willowlake,75-0-U
+1721,93.0,University of Manitoba,75-0-U
+1722,59.0,Red River College,77-1-K
+1723,55.0,Kildonan Place,77-1-K
+1724,86.0,Garden City Centre,77-1-K
+1725,133.0,Sinclair,77-1-K
+1726,89.0,Maples,77-0-P
+1727,59.0,Red River College,77-0-P
+1728,86.0,Garden City Centre,77-0-P
+1729,9.0,Polo Park,77-0-P
+1730,228.0,Whellams Lane,77-0-P
+1731,87.0,Seven Oaks Hospital,77-0-P
+1732,36.0,Polo Park,77-0-P
+1733,102.0,London,77-0-P
+1734,86.0,Garden City Centre,77-0-G
+1735,228.0,Whellams Lane,77-0-G
+1736,102.0,London,77-0-G
+1737,59.0,Red River College,77-1-R
+1738,59.0,Red River College,77-1-G
+1739,86.0,Garden City Centre,77-1-G
+1740,133.0,Sinclair,77-1-G
+1741,59.0,Red River College,77-1-W
+1742,86.0,Garden City Centre,77-1-W
+1743,133.0,Sinclair,77-1-W
+1744,36.0,Polo Park,78-0-U
+1745,93.0,University of Manitoba,78-0-U
+1746,152.0,Pan Am Pool,78-0-U
+1747,9.0,Polo Park,78-1-P
+1748,36.0,Polo Park,78-1-P
+1749,9.0,Polo Park,79-1-K
+1750,36.0,Polo Park,79-1-K
+1751,37.0,Portage and Tylehurst,79-1-P
+1752,9.0,Polo Park,79-1-P
+1753,36.0,Polo Park,79-1-P
+1754,41.0,Grace Hospital,82-0-U
+1755,35.0,Unicity,82-0-U
+1756,41.0,Grace Hospital,82-1-G
+1757,41.0,Grace Hospital,83-1-M
+1758,213.0,Murray Park,83-1-M
+1759,217.0,Strauss Dr,83-1-M
+1760,41.0,Grace Hospital,83-0-U
+1761,42.0,Crestview,83-0-U
+1762,35.0,Unicity,83-0-U
+1763,217.0,Strauss Dr,83-0-U
+1764,41.0,Grace Hospital,83-1-T
+1765,217.0,Strauss Dr,83-1-T
+1766,218.0,Portage & Ronald,83-0-P
+1767,41.0,Grace Hospital,83-1-G
+1768,218.0,Portage & Ronald,83-1-G
+1769,41.0,Grace Hospital,83-0-A
+1770,42.0,Crestview,83-0-A
+1771,30.0,All Seasons,85-1-W
+1772,32.0,North Kildonan,85-1-W
+1773,228.0,Whellams Lane,85-1-W
+1774,74.0,Concordia Hospital,85-1-W
+1775,55.0,Kildonan Place,85-0-K
+1776,30.0,All Seasons,85-0-K
+1777,32.0,North Kildonan,85-0-K
+1778,74.0,Concordia Hospital,85-0-K
+1779,55.0,Kildonan Place,87-1-C
+1780,53.0,St. Boniface Industrial Park,87-1-C
+1781,248.0,Crossroads Station,87-1-C
+1782,55.0,Kildonan Place,87-0-S
+1783,54.0,South Transcona,87-0-S
+1784,53.0,St. Boniface Industrial Park,87-0-S
+1785,55.0,Kildonan Place,87-0-B
+1786,53.0,St. Boniface Industrial Park,87-0-B
+1787,200.0,Scotia,88-1-C
+1788,58.0,Inkster Park,88-0-F
+1789,52.0,North Transcona,89-0-T
+1790,55.0,Kildonan Place,89-1-K
+1791,105.0,Transcona,89-1-K
+1792,104.0,Munroe,90-1-W
+1793,55.0,Kildonan Place,90-1-W
+1794,47.0,Rothesay,90-1-W
+1795,105.0,Transcona,90-1-W
+1796,228.0,Whellams Lane,90-1-W
+1797,32.0,North Kildonan,90-1-W
+1798,74.0,Concordia Hospital,90-1-W
+1799,52.0,North Transcona,90-0-T
+1800,55.0,Kildonan Place,90-0-T
+1801,74.0,Concordia Hospital,90-0-T
+1802,55.0,Kildonan Place,90-0-K
+1803,74.0,Concordia Hospital,90-0-K
+1804,55.0,Kildonan Place,90-1-k
+1805,105.0,Transcona,90-1-k
+1806,122.0,Killarney & Pembina,91-1-K
+1807,290.0,Pembina & Station,91-0-S
+1808,56.0,Lakeside Meadows,92-0-L
+1809,55.0,Kildonan Place,92-0-L
+1810,106.0,Kildare,92-0-L
+1811,55.0,Kildonan Place,92-1-C
+1812,248.0,Crossroads Station,92-1-C
+1813,55.0,Kildonan Place,92-1-K
+1814,18.0,St. Vital Centre,93-1-S
+1815,17.0,South St. Vital,93-1-S
+1816,26.0,Paddington,93-0-H
+1817,212.0,Southglen,93-0-H
+1818,17.0,South St. Vital,93-0-H
+1819,150.0,Tuxedo,95-0-pp
+1820,306.0,Shaftesbury,95-0-pp
+1821,243.0,Fort Rouge Station,95-0-pp
+1822,9.0,Polo Park,95-0-pp
+1823,151.0,Grant Park Shopping Centre,95-0-pp
+1824,36.0,Polo Park,95-0-pp
+1825,152.0,Pan Am Pool,95-0-pp
+1826,150.0,Tuxedo,95-1-R
+1827,306.0,Shaftesbury,95-1-R
+1828,151.0,Grant Park Shopping Centre,95-1-R
+1829,36.0,Polo Park,95-1-R
+1830,152.0,Pan Am Pool,95-1-R
+1831,154.0,Riverview,95-1-R
+1832,150.0,Tuxedo,95-0-S
+1833,306.0,Shaftesbury,95-0-S
+1834,243.0,Fort Rouge Station,95-0-S
+1835,151.0,Grant Park Shopping Centre,95-0-S
+1836,152.0,Pan Am Pool,95-0-S
+1837,155.0,Royalwood,96-1-S
+1838,18.0,St. Vital Centre,96-1-S
+1839,119.0,Southdale,96-1-S
+1840,246.0,Willowlake,96-1-S
+1841,110.0,Southland Park,96-1-S
+1842,109.0,Windsor Park,96-0-P
+1843,119.0,Southdale,96-0-P
+1844,212.0,Southglen,96-0-P
+1845,246.0,Willowlake,96-0-P
+1846,110.0,Southland Park,96-0-P
+1847,156.0,Point Douglas,97-1-P
+1848,24.0,Fife,97-0-F
+1849,58.0,Inkster Park,97-0-F
+1850,24.0,Fife,97-1-f
+1851,41.0,Grace Hospital,98-1-G
+1852,127.0,Charleswood,98-1-G
+1853,157.0,Westdale,98-1-G
+1854,35.0,Unicity,98-0-U
+1855,157.0,Westdale,98-0-U
+1856,157.0,Westdale,98-0-W
