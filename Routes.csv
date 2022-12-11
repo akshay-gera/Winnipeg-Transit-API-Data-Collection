@@ -1,0 +1,85 @@
+key,number,name,customer-type,coverage,badge-label,variants,badge-style.class-names.class-name,badge-style.background-color,badge-style.border-color,badge-style.color
+11,11,Route 11 Portage-Kildonan,regular,regular,11,"[{'key': '11-0-*'}, {'key': '11-1-R'}, {'key': '11-0-S'}, {'key': '11-1-D'}, {'key': '11-0-W'}, {'key': '11-0-P'}, {'key': '11-0-C'}, {'key': '11-1-M'}, {'key': '11-1-##'}, {'key': '11-1-G'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+15,15,Route 15 Sargent-Mountain,regular,regular,15,"[{'key': '15-0-F'}, {'key': '15-0-L'}, {'key': '15-1-L'}, {'key': '15-1-C'}, {'key': '15-1-#'}, {'key': '15-1-I'}, {'key': '15-0-W'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+16,16,Route 16 Selkirk-Osborne,regular,regular,16,"[{'key': '16-0-B'}, {'key': '16-0-M'}, {'key': '16-1-P'}, {'key': '16-1-V'}, {'key': '16-1-##'}, {'key': '16-1-*'}, {'key': '16-1-L'}, {'key': '16-0-*'}, {'key': '16-1-K'}, {'key': '16-0-K'}, {'key': '16-0-s'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+17,17,Route 17 McGregor,regular,regular,17,"[{'key': '17-1-MH'}, {'key': '17-0-A'}, {'key': '17-0-S'}, {'key': '17-0-M'}, {'key': '17-1-G'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+12,12,Route 12 William,regular,regular,12,"[{'key': '12-1-C'}, {'key': '12-0-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+18,18,Route 18 North Main-Corydon,regular,regular,18,"[{'key': '18-1-E'}, {'key': '18-0-R'}, {'key': '18-0-J'}, {'key': '18-0-T'}, {'key': '18-1-C'}, {'key': '18-1-A'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+19,19,Route 19 Marion-Logan-Notre Dame,regular,regular,19,"[{'key': '19-0-#'}, {'key': '19-1-N'}, {'key': '19-0-N'}, {'key': '19-0-E'}, {'key': '19-1-D'}, {'key': '19-1-A'}, {'key': '19-0-L'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+10,10,Route 10 St. Boniface-West Broadway,regular,regular,10,"[{'key': '10-0-SP'}, {'key': '10-0-ST'}, {'key': '10-1-WT'}, {'key': '10-1-#'}, {'key': '10-1-WP'}, {'key': '10-1-W'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+14,14,Route 14 Ellice-St. Mary's,regular,regular,14,"[{'key': '14-0-D'}, {'key': '14-1-E'}, {'key': '14-1-##'}, {'key': '14-0-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+20,20,Route 20 Academy-Watt,regular,regular,20,"[{'key': '20-1-H'}, {'key': '20-0-W'}, {'key': '20-0-F'}, {'key': '20-1-A'}, {'key': '20-1-#'}, {'key': '20-1-T'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+29,29,Route 29 Sherbrook - Stafford,regular,regular,29,"[{'key': '29-0-L'}, {'key': '29-1-B'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+21,21,Route 21 Portage Express,regular,express,21,"[{'key': '21-0-G'}, {'key': '21-0-C'}, {'key': '21-0-S'}, {'key': '21-1-D'}, {'key': '21-0-W'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+22,22,Route 22 Assiniboia Express,regular,express,22,"[{'key': '22-1-D'}, {'key': '22-0-W'}, {'key': '22-0-C'}, {'key': '22-0-S'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+24,24,Route 24 Ness Express,regular,express,24,"[{'key': '24-1-P'}, {'key': '24-0-U'}, {'key': '24-1-#'}, {'key': '24-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+26,26,Route 26 Logan - Berry,regular,regular,26,"[{'key': '26-1-C'}, {'key': '26-0-T'}, {'key': '26-0-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+23,23,Route 23 Broadway - William,regular,regular,23,"[{'key': '23-1-C'}, {'key': '23-0-A'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+28,28,Route 28 Brookside Express,regular,express,28,"[{'key': '28-1-D'}, {'key': '28-0-I'}, {'key': '28-0-O'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+25,25,Route 25 Ness Super Express,regular,super express,25,"[{'key': '25-0-U'}, {'key': '25-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+38,38,Route 38 Salter,regular,regular,38,"[{'key': '38-0-T'}, {'key': '38-1-F'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+31,31,Route 31 Keewatin Express,regular,express,31,"[{'key': '31-0-M'}, {'key': '31-0-O'}, {'key': '31-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+33,33,Route 33 Maples,regular,regular,33,"[{'key': '33-0-M'}, {'key': '33-0-J'}, {'key': '33-1-D'}, {'key': '33-1-Mc'}, {'key': '33-1-D2'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+30,30,Route 30 Inkster Park Express,regular,express,30,"[{'key': '30-0-I'}, {'key': '30-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+32,32,Route 32 North Main Express,regular,express,32,"[{'key': '32-1-D'}, {'key': '32-0-L'}, {'key': '32-0-R'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+34,34,Route 34 McPhillips Super Express,regular,super express,34,"[{'key': '34-0-M'}, {'key': '34-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+35,35,Route 35 Maples Super Express,regular,super express,35,"[{'key': '35-0-A'}, {'key': '35-1-C'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+36,36,Route 36 Northwest Super Express,regular,super express,36,"[{'key': '36-1-C'}, {'key': '36-0-U'}, {'key': '36-1-M'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+46,46,Route 46 Transcona Express,regular,express,46,"[{'key': '46-1-D'}, {'key': '46-1-P'}, {'key': '46-0-K'}, {'key': '46-0-R'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+42,42,Route 42 Plessis Express,regular,express,42,"[{'key': '42-1-D'}, {'key': '42-0-L'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+48,48,Route 48 McMeans Express,regular,express,48,"[{'key': '48-1-D'}, {'key': '48-0-T'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+49,49,Route 49 Dugald,regular,regular,49,"[{'key': '49-0-T'}, {'key': '49-0-S'}, {'key': '49-1-D'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+41,41,Route 41 Henderson Express,regular,express,41,"[{'key': '41-0-G'}, {'key': '41-0-N'}, {'key': '41-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+43,43,Route 43 Munroe,regular,regular,43,"[{'key': '43-1-D'}, {'key': '43-0-K'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+44,44,Route 44 Grey,regular,regular,44,"[{'key': '44-1-*'}, {'key': '44-1-#'}, {'key': '44-1-M'}, {'key': '44-0-L'}, {'key': '44-1-L'}, {'key': '44-0-M'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+45,45,Route 45 Talbot,regular,regular,45,"[{'key': '45-1-D'}, {'key': '45-0-K'}, {'key': '45-0-M'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+47,47,Route 47 Transcona - Pembina,regular,regular,47,"[{'key': '47-0-K'}, {'key': '47-0-R'}, {'key': '47-1-U'}, {'key': '47-1-#'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+40,40,Route 40 All Seasons Express,regular,express,40,"[{'key': '40-1-D'}, {'key': '40-0-S'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+58,58,Route 58 Dakota Express,regular,express,58,"[{'key': '58-1-D'}, {'key': '58-0-A'}, {'key': '58-0-W'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+56,56,Route 56 St. Boniface,regular,regular,56,"[{'key': '56-1-D'}, {'key': '56-0-S'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+50,50,Route 50 Archibald,regular,regular,50,"[{'key': '50-1-D'}, {'key': '50-1-*'}, {'key': '50-1-W'}, {'key': '50-0-S'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+53,53,Route 53 Norwood,regular,regular,53,"[{'key': '53-0-N'}, {'key': '53-1-D'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+57,57,Route 57 Southdale Express,regular,express,57,"[{'key': '57-1-D'}, {'key': '57-0-S'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+55,55,Route 55 St. Anne's,regular,regular,55,"[{'key': '55-1-*'}, {'key': '55-0-D'}, {'key': '55-0-M'}, {'key': '55-1-M'}, {'key': '55-1-##'}, {'key': '55-1-D'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+54,54,Route 54 St. Mary's Express,regular,express,54,"[{'key': '54-1-D'}, {'key': '54-0-A'}, {'key': '54-0-S'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+59,59,Route 59 South St. Anne's Express,regular,express,59,"[{'key': '59-0-I'}, {'key': '59-1-D'}, {'key': '59-0-A'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+693,693,Route 693 Waverley Heights,regular,feeder,693,"[{'key': '693-1-M'}, {'key': '693-0-B'}]","['badge-label', 'peak-feeder']",#000000,#000000,#ffffff
+68,68,Route 68 Grosvenor,regular,regular,68,"[{'key': '68-1-D'}, {'key': '68-0-R'}, {'key': '68-1-#'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+635,635,Route 635 Osborne Village,regular,feeder,635,"[{'key': '635-1-H'}, {'key': '635-0-M'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+60,60,Route 60 Pembina,regular,regular,60,"[{'key': '60-1-D'}, {'key': '60-0-U'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+65,65,Route 65 Grant Express,regular,express,65,"[{'key': '65-0-R'}, {'key': '65-1-D'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+66,66,Route 66 Grant,regular,regular,66,"[{'key': '66-1-D'}, {'key': '66-1-K'}, {'key': '66-0-C'}, {'key': '66-0-P'}, {'key': '66-0-U'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+67,67,Route 67 Charleswood Express,regular,express,67,"[{'key': '67-1-K'}, {'key': '67-0-K#'}]","['badge-label', 'express']",#eed700,#cab700,#000000
+650,650,Route 650 McGillivray,regular,feeder,650,"[{'key': '650-1-S'}, {'key': '650-0-W'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+649,649,Route 649 Chevrier,regular,feeder,649,"[{'key': '649-0-W'}, {'key': '649-1-W'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+691,691,Route 691 Whyte Ridge,regular,feeder,691,"[{'key': '691-0-K'}, {'key': '691-1-S'}]","['badge-label', 'peak-feeder']",#000000,#000000,#ffffff
+677,677,Route 677 Wilkes,regular,feeder,677,"[{'key': '677-1-B'}, {'key': '677-0-K'}, {'key': '677-0-O'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+641,641,Route 641 Lindenwoods West,regular,feeder,641,"[{'key': '641-1-B'}, {'key': '641-0-W'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+642,642,Route 642 Lindenwoods East,regular,feeder,642,"[{'key': '642-1-S'}, {'key': '642-0-H'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+690,690,Route 690 Industrial,regular,feeder,690,"[{'key': '690-1-S'}, {'key': '690-0-K'}]","['badge-label', 'peak-feeder']",#000000,#000000,#ffffff
+694,694,Route 694 Wildwood,regular,feeder,694,"[{'key': '694-0-F'}, {'key': '694-1-S'}]","['badge-label', 'peak-feeder']",#000000,#000000,#ffffff
+662,662,Route 662 Richmond,regular,feeder,662,"[{'key': '662-1-M'}, {'key': '662-1-K'}, {'key': '662-0-U'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+671,671,Route 671 Dalhousie,regular,feeder,671,"[{'key': '671-1-U'}, {'key': '671-0-P'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+672,672,Route 672 Killarney,regular,feeder,672,"[{'key': '672-0-P'}, {'key': '672-1-U'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+676,676,Route 676 Bridgwater/River Road,regular,feeder,676,"[{'key': '676-1-S'}, {'key': '676-0-C'}]","['badge-label', 'feeder']",#ffffff,#d9d9d9,#000000
+74,74,Route 74 Kenaston,regular,regular,74,"[{'key': '74-1-P'}, {'key': '74-0-U'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+78,78,Route 78 Waverley,regular,regular,78,"[{'key': '78-0-U'}, {'key': '78-1-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+79,79,Route 79 Charleswood,regular,regular,79,"[{'key': '79-1-K'}, {'key': '79-0-K#'}, {'key': '79-1-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+75,75,Route 75 Crosstown East,regular,regular,75,"[{'key': '75-1-K'}, {'key': '75-1-s'}, {'key': '75-0-U'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+77,77,Route 77 Crosstown North,regular,regular,77,"[{'key': '77-1-K'}, {'key': '77-0-P'}, {'key': '77-0-G'}, {'key': '77-1-R'}, {'key': '77-1-W'}, {'key': '77-1-G'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+71,71,Route 71 Arlington,regular,regular,71,"[{'key': '71-0-S#'}, {'key': '71-1-M'}, {'key': '71-1-S'}, {'key': '71-0-M#'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+86,86,Route 86 Mission Gardens,regular,regular,86,"[{'key': '86-0-S'}, {'key': '86-1-C'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+87,87,Route 87 Industrial,regular,regular,87,"[{'key': '87-1-C'}, {'key': '87-0-B'}, {'key': '87-0-S'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+82,82,Route 82 Grace Hospital - Unicity,regular,regular,82,"[{'key': '82-1-G'}, {'key': '82-0-U'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+85,85,Route 85 Kildonan Place - North Kildonan,regular,regular,85,"[{'key': '85-1-W'}, {'key': '85-0-K'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+89,89,Route 89 North Transcona - Kildonan Place,regular,regular,89,"[{'key': '89-1-K'}, {'key': '89-0-T'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+88,88,Route 88 Inkster Industrial Park - Scotia,regular,regular,88,"[{'key': '88-1-C'}, {'key': '88-0-F'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+83,83,Route 83 Unicity - Strauss Dr - Murray Industrial Park,regular,regular,83,"[{'key': '83-1-T'}, {'key': '83-0-U'}, {'key': '83-1-G'}, {'key': '83-0-P'}, {'key': '83-0-A'}, {'key': '83-1-M'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+95,95,Route 95 Tuxedo - Riverview,regular,regular,95,"[{'key': '95-0-pp'}, {'key': '95-0-S'}, {'key': '95-1-R'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+91,91,Route 91 St. Norbert,regular,regular,91,"[{'key': '91-0-S'}, {'key': '91-1-K'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+98,98,Route 98 Westdale - Grace Hospital,regular,regular,98,"[{'key': '98-0-W'}, {'key': '98-0-U'}, {'key': '98-1-G'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+90,90,Route 90 Kildonan Place - Whellams Lane,regular,regular,90,"[{'key': '90-1-k'}, {'key': '90-0-K'}, {'key': '90-1-W'}, {'key': '90-0-T'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+93,93,Route 93 South St. Vital - St. Marys,regular,regular,93,"[{'key': '93-1-S'}, {'key': '93-0-H'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+96,96,Route 96 St. Vital Centre - Windsor Park,regular,regular,96,"[{'key': '96-1-S'}, {'key': '96-0-P'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+92,92,Route 92 Crossroads Station - Lakeside Meadows,regular,regular,92,"[{'key': '92-1-C'}, {'key': '92-0-L'}, {'key': '92-1-K'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
+97,97,Route 97 Inkster Industrial Park - Point Douglas,regular,regular,97,"[{'key': '97-0-F'}, {'key': '97-1-P'}, {'key': '97-1-f'}]","['badge-label', 'regular']",#ffffff,#d9d9d9,#000000
